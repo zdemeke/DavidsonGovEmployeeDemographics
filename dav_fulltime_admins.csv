@@ -1,0 +1,500 @@
+index,Pay Grade / Step,Annual Salary,Class,Title,Current Department,Employment Status,EEO Job Category Description,Gender,Ethnic Code Description,Year of Birth,Date Started,FLSA Exempt?,County,Current_Year,Age,Age_Group,Started_Year,Year_Of_Service
+2,OR07,113468.17,7242,Admin Svcs Mgr,Water Services,Fulltime,Officials and administrators,M,Black,1950,1973-02-26,Y,Davidson,2024,74,70 to 74 years,1973,51
+3,OR09,121002.72,10863,Admin Svcs Division Manager,Metropolitan Council,Fulltime,Officials and administrators,F,White,1956,1974-09-01,Y,Davidson,2024,68,67 to 69 years,1974,50
+9,OR07,97654.57,7242,Admin Svcs Mgr,Juvenile Court,Fulltime,Officials and administrators,F,Black,1959,1977-10-16,Y,Davidson,2024,65,65 to 66 years,1977,47
+13,OR07,113468.17,11272,Transportation Superintendent,NDOT,Fulltime,Officials and administrators,M,White,1960,1978-10-16,Y,Davidson,2024,64,62 to 64 years,1978,46
+17,FD11,142808.86,10712,Fire Commander,Fire,Fulltime,Officials and administrators,M,White,1955,1979-10-16,Y,Davidson,2024,69,67 to 69 years,1979,45
+24,OR11,134005.46,7159,Div Mgr-Sheriff,Sheriff,Fulltime,Officials and administrators,F,White,1959,1981-11-16,Y,Davidson,2024,65,65 to 66 years,1981,43
+39,OR08,100488.11,10108,Finance Admin,Police,Fulltime,Officials and administrators,F,White,1949,1983-08-17,Y,Davidson,2024,75,75 to 79 years,1983,41
+51,OR08,108513.28,7234,Information Systems Advisor 1,Police,Fulltime,Officials and administrators,M,White,1958,1984-12-16,Y,Davidson,2024,66,65 to 66 years,1984,40
+59,OR13,181539.18,7420,Water Svcs Asst Dir,Water Services,Fulltime,Officials and administrators,M,White,1962,1985-05-01,Y,Davidson,2024,62,62 to 64 years,1985,39
+65,OR13,151406.03,6553,Parks & Recreation Asst Dir,Parks,Fulltime,Officials and administrators,M,White,1960,1985-06-16,Y,Davidson,2024,64,62 to 64 years,1985,39
+67,FD08B,118336.65,440,Fire Marshal-Dpty,Fire,Fulltime,Officials and administrators,F,Black,1957,1985-08-16,Y,Davidson,2024,67,67 to 69 years,1985,39
+79,FD11A,150130.8,10712,Fire Commander,Fire,Fulltime,Officials and administrators,M,White,1964,1985-12-01,Y,Davidson,2024,60,60 to 61 years,1985,39
+82,OR10,146301.52,6531,Human Resources Mgr,General Sessions Court,Fulltime,Officials and administrators,F,White,1963,1986-01-02,Y,Davidson,2024,61,60 to 61 years,1986,38
+88,OR10,141500.4,7407,Information Systems Advisor 2,Water Services,Fulltime,Officials and administrators,F,White,1967,1986-04-01,Y,Davidson,2024,57,55 to 59 years,1986,38
+98,OR10,143912.45,7407,Information Systems Advisor 2,Information Technology Services,Fulltime,Officials and administrators,M,White,1964,1986-05-12,Y,Davidson,2024,60,60 to 61 years,1986,38
+108,OR07,109120.44,10486,Water Services Security Mgr,Water Services,Fulltime,Officials and administrators,M,Black,1959,1986-07-14,Y,Davidson,2024,65,65 to 66 years,1986,38
+117,ST09,63906.71,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,M,Black,1966,1986-08-18,N,Davidson,2024,58,55 to 59 years,1986,38
+152,OR13,183543.57,7420,Water Svcs Asst Dir,Water Services,Fulltime,Officials and administrators,M,Black,1959,1987-07-01,Y,Davidson,2024,65,65 to 66 years,1987,37
+157,OR10,112634.56,6232,Finance Mgr,County Clerk,Fulltime,Officials and administrators,F,Black,1963,1987-09-01,N,Davidson,2024,61,60 to 61 years,1987,37
+158,OR13,183169.04,11302,Chief of Operations-DCSO,Sheriff,Fulltime,Officials and administrators,M,White,1968,1987-09-01,Y,Davidson,2024,56,55 to 59 years,1987,37
+161,OR09,134683.65,10888,Operations Manager,Juvenile Court Clerk,Fulltime,Officials and administrators,M,Black,1965,1987-12-01,Y,Davidson,2024,59,55 to 59 years,1987,37
+165,OR07,113468.17,7242,Admin Svcs Mgr,General Services,Fulltime,Officials and administrators,M,White,1962,1988-02-16,Y,Davidson,2024,62,62 to 64 years,1988,36
+177,OR13,154182.26,7420,Water Svcs Asst Dir,Water Services,Fulltime,Officials and administrators,F,White,1970,1988-05-23,Y,Davidson,2024,54,50 to 54 years,1988,36
+180,OR07,102915.12,7242,Admin Svcs Mgr,Fire,Fulltime,Officials and administrators,F,White,1964,1988-06-16,Y,Davidson,2024,60,60 to 61 years,1988,36
+184,OR07,101802.68,11272,Transportation Superintendent,NDOT,Fulltime,Officials and administrators,M,Black,1966,1988-08-26,Y,Davidson,2024,58,55 to 59 years,1988,36
+187,FD11A,142808.86,10712,Fire Commander,Fire,Fulltime,Officials and administrators,M,White,1963,1988-09-01,Y,Davidson,2024,61,60 to 61 years,1988,36
+201,OR11,124512.47,10887,Information Systems Advisor 3,Emergency Communications,Fulltime,Officials and administrators,M,White,1967,1988-11-01,Y,Davidson,2024,57,55 to 59 years,1988,36
+245,OR07,109179.06,7242,Admin Svcs Mgr,District Attorney,Fulltime,Officials and administrators,M,Black,1961,1990-06-01,Y,Davidson,2024,63,62 to 64 years,1990,34
+246,OR10,125758.61,7407,Information Systems Advisor 2,Information Technology Services,Fulltime,Officials and administrators,M,White,1971,1990-06-04,Y,Davidson,2024,53,50 to 54 years,1990,34
+247,OR13,183543.57,7420,Water Svcs Asst Dir,Water Services,Fulltime,Officials and administrators,M,Hispanic,1965,1990-06-16,Y,Davidson,2024,59,55 to 59 years,1990,34
+257,OR10,146898.9,7782,Info Systems Mgr,Assessor of Property,Fulltime,Officials and administrators,M,White,1961,1990-10-01,Y,Davidson,2024,63,62 to 64 years,1990,34
+275,OR13,174711.04,6004,Human Resources Asst Dir,Human Resources,Fulltime,Officials and administrators,F,White,1968,1991-02-01,Y,Davidson,2024,56,55 to 59 years,1991,33
+314,OR09,125373.28,11309,Director of Inmate Services-DCSO,Sheriff,Fulltime,Officials and administrators,F,Black,1969,1991-09-01,Y,Davidson,2024,55,55 to 59 years,1991,33
+317,OR05,82126.97,7377,Program Mgr 2,Public Defender,Fulltime,Officials and administrators,F,White,1969,1991-09-01,Y,Davidson,2024,55,55 to 59 years,1991,33
+329,OR08,114735.41,7234,Information Systems Advisor 1,Information Technology Services,Fulltime,Officials and administrators,M,White,1961,1991-11-04,Y,Davidson,2024,63,62 to 64 years,1991,33
+332,OR07,99933.61,10889,Technical Services Administrat,Water Services,Fulltime,Officials and administrators,M,White,1964,1991-12-01,Y,Davidson,2024,60,60 to 61 years,1991,33
+336,OR11,137650.68,7159,Div Mgr-Sheriff,Sheriff,Fulltime,Officials and administrators,M,White,1964,1992-01-16,Y,Davidson,2024,60,60 to 61 years,1992,32
+349,OR07,113468.17,1056,Chief Dpty Clerk-Gen Sess Ct,Circuit Court Clerk,Fulltime,Officials and administrators,M,White,1967,1992-03-11,Y,Davidson,2024,57,55 to 59 years,1992,32
+352,OR07,103921.62,7242,Admin Svcs Mgr,NDOT,Fulltime,Officials and administrators,M,White,1961,1992-03-26,Y,Davidson,2024,63,62 to 64 years,1992,32
+353,OR05,83461.03,7377,Program Mgr 2,Public Defender,Fulltime,Officials and administrators,F,Two or more,1966,1992-04-16,Y,Davidson,2024,58,55 to 59 years,1992,32
+356,OR13,202022.17,10947,Assoc Admin-Police & Fire,Police,Fulltime,Officials and administrators,M,White,1959,1992-05-16,Y,Davidson,2024,65,65 to 66 years,1992,32
+368,OR08,103737.7,10108,Finance Admin,Fire,Fulltime,Officials and administrators,F,White,1965,1992-09-01,Y,Davidson,2024,59,55 to 59 years,1992,32
+382,OR13,156151.23,7420,Water Svcs Asst Dir,Water Services,Fulltime,Officials and administrators,M,White,1971,1992-11-30,Y,Davidson,2024,53,50 to 54 years,1992,32
+415,OR07,96819.31,7242,Admin Svcs Mgr,Fire,Fulltime,Officials and administrators,F,White,1964,1993-05-24,Y,Davidson,2024,60,60 to 61 years,1993,31
+430,OR07,100521.09,7242,Admin Svcs Mgr,Social Services,Fulltime,Officials and administrators,F,Black,1954,1993-09-01,Y,Davidson,2024,70,70 to 74 years,1993,31
+433,OR09,126537.0,10129,Planning Mgr 1,Planning Commission,Fulltime,Officials and administrators,M,White,1971,1993-11-01,Y,Davidson,2024,53,50 to 54 years,1993,31
+449,FD05B,95417.67,2534,Fire Inspector 2,Fire,Fulltime,Officials and administrators,F,Black,1971,1994-03-01,N,Davidson,2024,53,50 to 54 years,1994,30
+467,OR11,147360.95,7762,Special Projects Mgr,Social Services,Fulltime,Officials and administrators,M,Black,1960,1994-07-16,Y,Davidson,2024,64,62 to 64 years,1994,30
+470,OR08,103532.6,3750,Envir Laboratory Mgr,Water Services,Fulltime,Officials and administrators,M,Asian,1971,1994-08-01,Y,Davidson,2024,53,50 to 54 years,1994,30
+474,OR11,160355.17,10845,Juvenile Court Magistrate 2,Juvenile Court,Fulltime,Officials and administrators,M,White,1967,1994-08-22,Y,Davidson,2024,57,55 to 59 years,1994,30
+503,OR07,90879.06,11272,Transportation Superintendent,Water Services,Fulltime,Officials and administrators,F,White,1971,1994-11-11,Y,Davidson,2024,53,50 to 54 years,1994,30
+514,ST09,60543.28,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,M,Black,1969,1995-01-17,N,Davidson,2024,55,55 to 59 years,1995,29
+516,OR05,74935.19,7377,Program Mgr 2,Sheriff,Fulltime,Officials and administrators,F,Black,1974,1995-01-19,N,Davidson,2024,50,50 to 54 years,1995,29
+521,OR05,84632.58,7377,Program Mgr 2,Sheriff,Fulltime,Officials and administrators,F,Black,1971,1995-02-16,N,Davidson,2024,53,50 to 54 years,1995,29
+524,OR07,104339.69,6247,Parks & Recreation Supt,Parks,Fulltime,Officials and administrators,F,White,1964,1995-03-01,Y,Davidson,2024,60,60 to 61 years,1995,29
+527,OR11,178197.63,10354,Exe Administrator Police/Fire,Fire,Fulltime,Officials and administrators,F,Black,1958,1995-03-01,Y,Davidson,2024,66,65 to 66 years,1995,29
+532,FD07A,107670.09,1495,Fire Marshal-Asst,Fire,Fulltime,Officials and administrators,M,White,1970,1995-04-01,N,Davidson,2024,54,50 to 54 years,1995,29
+555,OR09,102998.32,10863,Admin Svcs Division Manager,Juvenile Court Clerk,Fulltime,Officials and administrators,F,White,1960,1995-07-10,Y,Davidson,2024,64,62 to 64 years,1995,29
+589,DP02,245526.61,1045,Fire Chief,Fire,Fulltime,Officials and administrators,M,Black,1967,1995-09-01,Y,Davidson,2024,57,55 to 59 years,1995,29
+591,FD12B,166011.67,10711,Fire Services Deputy Director,Fire,Fulltime,Officials and administrators,M,White,1968,1995-09-01,Y,Davidson,2024,56,55 to 59 years,1995,29
+601,OR14,226633.44,1496,Deputy Metropolitan Attorney,Law,Fulltime,Officials and administrators,M,White,1963,1995-10-04,Y,Davidson,2024,61,60 to 61 years,1995,29
+604,NS,109137.6,10301,Assistant Director - OEM,Office of Emergency Mgmt,Fulltime,Officials and administrators,F,White,1975,1995-10-20,Y,Davidson,2024,49,45 to 49 years,1995,29
+610,OR07,95305.4,7242,Admin Svcs Mgr,Police,Fulltime,Officials and administrators,F,Black,1970,1995-11-16,Y,Davidson,2024,54,50 to 54 years,1995,29
+618,OR07,113468.17,6247,Parks & Recreation Supt,Parks,Fulltime,Officials and administrators,M,White,1949,1996-01-16,Y,Davidson,2024,75,75 to 79 years,1996,28
+620,OR12,140713.54,10386,Bureau Director,Health,Fulltime,Officials and administrators,M,White,1973,1996-02-01,Y,Davidson,2024,51,50 to 54 years,1996,28
+632,OR07,80810.37,7242,Admin Svcs Mgr,Sheriff,Fulltime,Officials and administrators,F,Black,1971,1996-03-16,N,Davidson,2024,53,50 to 54 years,1996,28
+633,OR11,178197.64,7762,Special Projects Mgr,Water Services,Fulltime,Officials and administrators,M,White,1957,1996-03-20,Y,Davidson,2024,67,67 to 69 years,1996,28
+643,OR11,116759.02,7159,Div Mgr-Sheriff,Sheriff,Fulltime,Officials and administrators,F,Black,1969,1996-05-01,Y,Davidson,2024,55,55 to 59 years,1996,28
+644,OR11,154333.74,6559,Judicial Commissioner,General Sessions Court,Fulltime,Officials and administrators,F,Black,1960,1996-05-16,Y,Davidson,2024,64,62 to 64 years,1996,28
+649,FD07,95663.47,1495,Fire Marshal-Asst,Fire,Fulltime,Officials and administrators,F,White,1968,1996-06-16,N,Davidson,2024,56,55 to 59 years,1996,28
+658,FD05A,92717.17,2534,Fire Inspector 2,Fire,Fulltime,Officials and administrators,F,White,1974,1996-06-16,N,Davidson,2024,50,50 to 54 years,1996,28
+688,DP01,159819.11,1945,Historical Commission Exec Dir,Historical Commission,Fulltime,Officials and administrators,M,White,1961,1996-10-16,Y,Davidson,2024,63,62 to 64 years,1996,28
+691,OR07,92323.47,7242,Admin Svcs Mgr,Office of Homeless Services,Fulltime,Officials and administrators,F,Black,1976,1996-11-11,Y,Davidson,2024,48,45 to 49 years,1996,28
+711,OR10,137327.14,6232,Finance Mgr,Finance,Fulltime,Officials and administrators,M,Black,1958,1996-12-01,Y,Davidson,2024,66,65 to 66 years,1996,28
+724,OR03,66053.9,7247,Appraiser 3,Assessor of Property,Fulltime,Officials and administrators,F,Black,1959,1997-03-01,N,Davidson,2024,65,65 to 66 years,1997,27
+748,OR10,150391.06,6531,Human Resources Mgr,NDOT,Fulltime,Officials and administrators,M,Black,1971,1997-06-09,Y,Davidson,2024,53,50 to 54 years,1997,27
+753,CA10,203424.0,10670,VP Sales and Mkting-Conv Ctr,Convention Center Authority,Fulltime,Officials and administrators,M,White,1962,1997-06-30,Y,Davidson,2024,62,62 to 64 years,1997,27
+775,PS08,172967.74,7702,Police Commander,Police,Fulltime,Officials and administrators,M,Black,1971,1997-08-01,Y,Davidson,2024,53,50 to 54 years,1997,27
+791,OR10,130252.83,6531,Human Resources Mgr,Human Resources,Fulltime,Officials and administrators,M,White,1971,1997-08-16,Y,Davidson,2024,53,50 to 54 years,1997,27
+819,OR10,128220.5,6531,Human Resources Mgr,Human Resources,Fulltime,Officials and administrators,F,White,1972,1997-09-01,Y,Davidson,2024,52,50 to 54 years,1997,27
+829,OR07,88136.92,7242,Admin Svcs Mgr,Sheriff,Fulltime,Officials and administrators,F,Black,1973,1997-10-16,Y,Davidson,2024,51,50 to 54 years,1997,27
+878,PS08,172967.74,7702,Police Commander,Police,Fulltime,Officials and administrators,M,White,1976,1998-02-16,Y,Davidson,2024,48,45 to 49 years,1998,26
+895,OR07,99531.08,7242,Admin Svcs Mgr,Social Services,Fulltime,Officials and administrators,F,Black,1964,1998-03-01,Y,Davidson,2024,60,60 to 61 years,1998,26
+899,OR08,109005.63,7234,Information Systems Advisor 1,Assessor of Property,Fulltime,Officials and administrators,M,White,1956,1998-03-15,Y,Davidson,2024,68,67 to 69 years,1998,26
+918,MAC12A,96735.44,11148,Asst Dir of Workforce Dev-MAC,Metro Action Commission,Fulltime,Officials and administrators,F,Black,1965,1998-06-01,Y,Davidson,2024,59,55 to 59 years,1998,26
+925,OR13,183543.57,11270,Transportation Assistant Director,NDOT,Fulltime,Officials and administrators,M,White,1961,1998-07-01,Y,Davidson,2024,63,62 to 64 years,1998,26
+927,OR12,161200.0,11248,Attorney 4-STC,State Trial Courts,Fulltime,Officials and administrators,F,White,1956,1998-07-01,Y,Davidson,2024,68,67 to 69 years,1998,26
+933,OR13,193656.28,7744,Info Systems Asst Dir,Information Technology Services,Fulltime,Officials and administrators,F,White,1967,1998-08-01,Y,Davidson,2024,57,55 to 59 years,1998,26
+953,OR11,158677.55,10845,Juvenile Court Magistrate 2,Juvenile Court,Fulltime,Officials and administrators,M,White,1962,1998-09-01,Y,Davidson,2024,62,62 to 64 years,1998,26
+962,OR11,178197.64,7762,Special Projects Mgr,Social Services,Fulltime,Officials and administrators,F,Black,1971,1998-09-16,Y,Davidson,2024,53,50 to 54 years,1998,26
+968,OR07,84042.78,7242,Admin Svcs Mgr,Codes Administration,Fulltime,Officials and administrators,F,White,1972,1998-10-12,Y,Davidson,2024,52,50 to 54 years,1998,26
+972,OR11,141393.45,7318,Info Systems Div Mgr,Information Technology Services,Fulltime,Officials and administrators,M,White,1970,1998-10-16,Y,Davidson,2024,54,50 to 54 years,1998,26
+989,OR08,87529.74,7234,Information Systems Advisor 1,Information Technology Services,Fulltime,Officials and administrators,M,White,1967,1999-02-16,Y,Davidson,2024,57,55 to 59 years,1999,25
+990,OR07,80810.37,7242,Admin Svcs Mgr,Sheriff,Fulltime,Officials and administrators,F,Asian,1957,1999-02-16,N,Davidson,2024,67,67 to 69 years,1999,25
+993,OR08,94275.98,10108,Finance Admin,Finance,Fulltime,Officials and administrators,F,Black,1960,1999-03-01,Y,Davidson,2024,64,62 to 64 years,1999,25
+1017,OR10,109072.51,6232,Finance Mgr,Finance,Fulltime,Officials and administrators,F,White,1965,1999-04-29,Y,Davidson,2024,59,55 to 59 years,1999,25
+1025,OR05,84632.28,7377,Program Mgr 2,Sheriff,Fulltime,Officials and administrators,F,White,1971,1999-07-01,N,Davidson,2024,53,50 to 54 years,1999,25
+1026,OR10,121948.74,7782,Info Systems Mgr,Information Technology Services,Fulltime,Officials and administrators,F,White,1972,1999-07-01,Y,Davidson,2024,52,50 to 54 years,1999,25
+1049,OR09,120337.02,10863,Admin Svcs Division Manager,County Clerk,Fulltime,Officials and administrators,F,Hispanic,1980,1999-11-22,Y,Davidson,2024,44,40 to 44 years,1999,25
+1067,PS09,193366.8,10154,Police Dpty Chief,Police,Fulltime,Officials and administrators,M,Black,1968,2000-01-16,Y,Davidson,2024,56,55 to 59 years,2000,24
+1096,ST08,55518.19,10846,Library Performing Artist,Public Library,Fulltime,Officials and administrators,M,White,1969,2000-04-01,N,Davidson,2024,55,55 to 59 years,2000,24
+1109,OR08,102515.16,10108,Finance Admin,Finance,Fulltime,Officials and administrators,F,Black,1963,2000-05-16,Y,Davidson,2024,61,60 to 61 years,2000,24
+1121,DP02,246471.73,10223,Exec Dir,Metro Action Commission,Fulltime,Officials and administrators,F,Black,1962,2000-07-01,Y,Davidson,2024,62,62 to 64 years,2000,24
+1128,OR13,196258.27,7192,Assoc Metropolitan Attorney,Law,Fulltime,Officials and administrators,F,White,1970,2000-08-14,Y,Davidson,2024,54,50 to 54 years,2000,24
+1140,PS09,213086.4,10154,Police Dpty Chief,Police,Fulltime,Officials and administrators,M,White,1974,2000-08-16,Y,Davidson,2024,50,50 to 54 years,2000,24
+1145,OR13,146898.9,10948,Deputy Director,Assessor of Property,Fulltime,Officials and administrators,M,White,1966,2000-09-15,Y,Davidson,2024,58,55 to 59 years,2000,24
+1146,OR14,242746.31,7704,Finance Deputy Dir,Finance,Fulltime,Officials and administrators,F,Black,1962,2000-09-16,Y,Davidson,2024,62,62 to 64 years,2000,24
+1184,OR07,100288.81,6247,Parks & Recreation Supt,Parks,Fulltime,Officials and administrators,F,White,1982,2000-10-06,Y,Davidson,2024,42,40 to 44 years,2000,24
+1187,OR13,183169.04,10549,Chief of Corrections,Sheriff,Fulltime,Officials and administrators,F,Black,1960,2000-10-16,Y,Davidson,2024,64,62 to 64 years,2000,24
+1189,OR11,156757.58,1339,Ct Admin,Juvenile Court,Fulltime,Officials and administrators,M,White,1964,2000-10-16,Y,Davidson,2024,60,60 to 61 years,2000,24
+1215,OR10,126824.46,6232,Finance Mgr,Finance,Fulltime,Officials and administrators,M,White,1964,2001-01-01,Y,Davidson,2024,60,60 to 61 years,2001,23
+1217,OR10,107951.88,6232,Finance Mgr,Police,Fulltime,Officials and administrators,M,Two or more,1982,2001-01-01,Y,Davidson,2024,42,40 to 44 years,2001,23
+1224,NS,216419.5,10557,Director/Special Counsel,Metropolitan Council,Fulltime,Officials and administrators,F,White,1972,2001-01-24,Y,Davidson,2024,52,50 to 54 years,2001,23
+1254,OR10,131105.18,7407,Information Systems Advisor 2,Information Technology Services,Fulltime,Officials and administrators,F,White,1967,2001-04-16,Y,Davidson,2024,57,55 to 59 years,2001,23
+1255,ST09,58861.56,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,F,White,1981,2001-04-16,N,Davidson,2024,43,40 to 44 years,2001,23
+1300,OR10,130631.36,7407,Information Systems Advisor 2,Police,Fulltime,Officials and administrators,F,White,1981,2001-06-16,Y,Davidson,2024,43,40 to 44 years,2001,23
+1310,OR08,101968.55,10108,Finance Admin,Police,Fulltime,Officials and administrators,F,White,1964,2001-07-01,Y,Davidson,2024,60,60 to 61 years,2001,23
+1357,OR14,200000.0,7704,Finance Deputy Dir,Finance,Fulltime,Officials and administrators,F,Black,1971,2001-08-01,Y,Davidson,2024,53,50 to 54 years,2001,23
+1371,OR10,134700.74,6531,Human Resources Mgr,Human Resources,Fulltime,Officials and administrators,M,White,1975,2001-08-20,Y,Davidson,2024,49,45 to 49 years,2001,23
+1380,OR07,83234.68,11272,Transportation Superintendent,Water Services,Fulltime,Officials and administrators,M,Black,1973,2001-09-10,N,Davidson,2024,51,50 to 54 years,2001,23
+1382,OR11,152198.87,7762,Special Projects Mgr,Water Services,Fulltime,Officials and administrators,F,White,1964,2001-09-16,Y,Davidson,2024,60,60 to 61 years,2001,23
+1397,DP02,297625.23,1670,Water Svcs Dir,Water Services,Fulltime,Officials and administrators,M,White,1964,2001-10-15,Y,Davidson,2024,60,60 to 61 years,2001,23
+1412,OR11,126219.94,7318,Info Systems Div Mgr,Water Services,Fulltime,Officials and administrators,M,White,1968,2001-11-05,Y,Davidson,2024,56,55 to 59 years,2001,23
+1415,OR08,108953.94,7234,Information Systems Advisor 1,Health,Fulltime,Officials and administrators,M,White,1976,2001-12-01,Y,Davidson,2024,48,45 to 49 years,2001,23
+1416,OR07,113468.17,6247,Parks & Recreation Supt,Parks,Fulltime,Officials and administrators,F,Black,1951,2001-12-01,Y,Davidson,2024,73,70 to 74 years,2001,23
+1428,OR13,195127.64,10947,Assoc Admin-Police & Fire,Police,Fulltime,Officials and administrators,F,White,1956,2002-01-01,Y,Davidson,2024,68,67 to 69 years,2002,22
+1429,DP02,179650.6,1610,Parks & Recreation Dir,Parks,Fulltime,Officials and administrators,F,Black,1972,2002-01-02,Y,Davidson,2024,52,50 to 54 years,2002,22
+1438,OR07,80810.37,6542,Property Standards Insp Chief,Codes Administration,Fulltime,Officials and administrators,F,Hispanic,1977,2002-02-11,Y,Davidson,2024,47,45 to 49 years,2002,22
+1449,OR11,147847.78,1339,Ct Admin,General Sessions Court,Fulltime,Officials and administrators,M,White,1962,2002-02-16,Y,Davidson,2024,62,62 to 64 years,2002,22
+1477,OR07,100946.15,7242,Admin Svcs Mgr,Sheriff,Fulltime,Officials and administrators,M,Black,1959,2002-04-01,Y,Davidson,2024,65,65 to 66 years,2002,22
+1479,OR09,128559.43,10744,Health Manager 3,Health,Fulltime,Officials and administrators,F,Black,1962,2002-04-01,Y,Davidson,2024,62,62 to 64 years,2002,22
+1499,OR11,128804.75,10887,Information Systems Advisor 3,Justice Integration Services,Fulltime,Officials and administrators,M,White,1962,2002-06-01,Y,Davidson,2024,62,62 to 64 years,2002,22
+1506,OR13,151406.02,6553,Parks & Recreation Asst Dir,Parks,Fulltime,Officials and administrators,M,White,1967,2002-07-01,Y,Davidson,2024,57,55 to 59 years,2002,22
+1509,NS,159704.11,7971,Sports Authority Exec Director,Sports Authority,Fulltime,Officials and administrators,F,Black,1976,2002-07-08,Y,Davidson,2024,48,45 to 49 years,2002,22
+1526,OR07,111360.88,6247,Parks & Recreation Supt,Parks,Fulltime,Officials and administrators,M,White,1961,2002-07-16,Y,Davidson,2024,63,62 to 64 years,2002,22
+1552,OR10,118725.85,7407,Information Systems Advisor 2,Information Technology Services,Fulltime,Officials and administrators,M,White,1973,2002-08-01,Y,Davidson,2024,51,50 to 54 years,2002,22
+1553,OR07,82426.58,7242,Admin Svcs Mgr,County Clerk,Fulltime,Officials and administrators,F,White,1977,2002-08-02,N,Davidson,2024,47,45 to 49 years,2002,22
+1558,OR13,181554.2,7744,Info Systems Asst Dir,Information Technology Services,Fulltime,Officials and administrators,F,White,1979,2002-08-16,Y,Davidson,2024,45,45 to 49 years,2002,22
+1566,OR07,111605.56,7242,Admin Svcs Mgr,Sheriff,Fulltime,Officials and administrators,M,White,1964,2002-09-01,Y,Davidson,2024,60,60 to 61 years,2002,22
+1567,OR13,213120.52,6680,Chief Deputy,Sheriff,Fulltime,Officials and administrators,M,White,1964,2002-09-01,Y,Davidson,2024,60,60 to 61 years,2002,22
+1589,FD05B,95417.67,2534,Fire Inspector 2,Fire,Fulltime,Officials and administrators,M,Black,1977,2002-10-16,N,Davidson,2024,47,45 to 49 years,2002,22
+1600,OR11,137460.28,7318,Info Systems Div Mgr,Information Technology Services,Fulltime,Officials and administrators,F,White,1965,2002-11-11,Y,Davidson,2024,59,55 to 59 years,2002,22
+1632,OR13,191808.39,10469,General Services Assistant Dir,General Services,Fulltime,Officials and administrators,F,White,1966,2003-02-01,Y,Davidson,2024,58,55 to 59 years,2003,21
+1639,DP02,191115.53,1620,Human Resources Dir,Human Resources,Fulltime,Officials and administrators,F,White,1975,2003-02-16,Y,Davidson,2024,49,45 to 49 years,2003,21
+1654,OR08,106383.58,7234,Information Systems Advisor 1,Social Services,Fulltime,Officials and administrators,M,Black,1964,2003-03-01,Y,Davidson,2024,60,60 to 61 years,2003,21
+1662,OR08,94012.71,7234,Information Systems Advisor 1,Juvenile Court Clerk,Fulltime,Officials and administrators,M,White,1972,2003-03-10,Y,Davidson,2024,52,50 to 54 years,2003,21
+1665,OR11,161891.0,7081,Codes Admin Asst Dir,Codes Administration,Fulltime,Officials and administrators,M,Black,1956,2003-03-16,Y,Davidson,2024,68,67 to 69 years,2003,21
+1679,OR07,95702.97,7242,Admin Svcs Mgr,General Services,Fulltime,Officials and administrators,M,Two or more,1956,2003-04-16,Y,Davidson,2024,68,67 to 69 years,2003,21
+1684,OR11,136729.25,7159,Div Mgr-Sheriff,Sheriff,Fulltime,Officials and administrators,M,White,1963,2003-05-01,Y,Davidson,2024,61,60 to 61 years,2003,21
+1700,OR03,66817.35,7247,Appraiser 3,Assessor of Property,Fulltime,Officials and administrators,M,White,1974,2003-06-01,N,Davidson,2024,50,50 to 54 years,2003,21
+1743,OR13,164495.87,6004,Human Resources Asst Dir,Human Resources,Fulltime,Officials and administrators,M,Black,1958,2003-09-16,Y,Davidson,2024,66,65 to 66 years,2003,21
+1744,OR10,130631.36,6531,Human Resources Mgr,Police,Fulltime,Officials and administrators,M,White,1977,2003-09-16,Y,Davidson,2024,47,45 to 49 years,2003,21
+1750,OR07,83234.68,7242,Admin Svcs Mgr,Sheriff,Fulltime,Officials and administrators,F,Black,1970,2003-10-01,Y,Davidson,2024,54,50 to 54 years,2003,21
+1759,NS,107940.0,11248,Attorney 4-STC,State Trial Courts,Fulltime,Officials and administrators,F,White,1973,2003-10-20,Y,Davidson,2024,51,50 to 54 years,2003,21
+1760,OR11,169062.42,11160,DCSO Finance Director,Sheriff,Fulltime,Officials and administrators,M,White,1963,2003-11-01,Y,Davidson,2024,61,60 to 61 years,2003,21
+1762,OR10,141445.24,6232,Finance Mgr,Finance,Fulltime,Officials and administrators,M,White,1966,2003-11-16,Y,Davidson,2024,58,55 to 59 years,2003,21
+1764,OR13,160410.22,11104,Chief Diversity Equity and Inclusion Officer,Finance,Fulltime,Officials and administrators,F,Black,1969,2003-12-01,Y,Davidson,2024,55,55 to 59 years,2003,21
+1771,ST11,77729.23,10459,Combination Codes Inspector,Codes Administration,Fulltime,Officials and administrators,M,White,1959,2004-01-02,N,Davidson,2024,65,65 to 66 years,2004,20
+1782,OR10,105895.65,6232,Finance Mgr,Health,Fulltime,Officials and administrators,F,White,1981,2004-02-09,Y,Davidson,2024,43,40 to 44 years,2004,20
+1803,OR07,83234.68,7242,Admin Svcs Mgr,Sheriff,Fulltime,Officials and administrators,M,White,1974,2004-07-01,Y,Davidson,2024,50,50 to 54 years,2004,20
+1813,OR11,132327.91,6559,Judicial Commissioner,General Sessions Court,Fulltime,Officials and administrators,M,White,1952,2004-07-01,Y,Davidson,2024,72,70 to 74 years,2004,20
+1815,OR08,112980.25,10108,Finance Admin,Finance,Fulltime,Officials and administrators,F,Black,1967,2004-07-01,Y,Davidson,2024,57,55 to 59 years,2004,20
+1821,OR12,125000.0,11248,Attorney 4-STC,State Trial Courts,Fulltime,Officials and administrators,F,White,1965,2004-07-07,Y,Davidson,2024,59,55 to 59 years,2004,20
+1829,OR11,136759.01,280,Library Svcs Asst Dir,Public Library,Fulltime,Officials and administrators,F,White,1973,2004-08-16,Y,Davidson,2024,51,50 to 54 years,2004,20
+1830,OR10,112635.38,7407,Information Systems Advisor 2,Justice Integration Services,Fulltime,Officials and administrators,M,White,1967,2004-08-16,Y,Davidson,2024,57,55 to 59 years,2004,20
+1878,OR07,113468.17,7242,Admin Svcs Mgr,Police,Fulltime,Officials and administrators,F,White,1968,2004-09-03,Y,Davidson,2024,56,55 to 59 years,2004,20
+1951,OR05,76175.06,7377,Program Mgr 2,Sheriff,Fulltime,Officials and administrators,F,Black,1978,2005-01-18,N,Davidson,2024,46,45 to 49 years,2005,19
+1988,OR07,104579.72,7242,Admin Svcs Mgr,Water Services,Fulltime,Officials and administrators,F,Black,1970,2005-02-14,Y,Davidson,2024,54,50 to 54 years,2005,19
+1998,OR09,110065.13,11267,Public Information Manager,Police,Fulltime,Officials and administrators,M,White,1967,2005-03-16,Y,Davidson,2024,57,55 to 59 years,2005,19
+2013,OR07,91304.28,6247,Parks & Recreation Supt,Parks,Fulltime,Officials and administrators,F,White,1974,2005-04-12,Y,Davidson,2024,50,50 to 54 years,2005,19
+2018,OR11,138301.81,7159,Div Mgr-Sheriff,Sheriff,Fulltime,Officials and administrators,F,Black,1975,2005-04-28,Y,Davidson,2024,49,45 to 49 years,2005,19
+2022,DP02,231551.39,1680,Social Svcs Dir,Social Services,Fulltime,Officials and administrators,F,Black,1963,2005-05-16,Y,Davidson,2024,61,60 to 61 years,2005,19
+2035,OR10,105119.0,7407,Information Systems Advisor 2,State Trial Courts,Fulltime,Officials and administrators,M,White,1962,2005-06-27,Y,Davidson,2024,62,62 to 64 years,2005,19
+2038,OR11,170145.27,10887,Information Systems Advisor 3,Information Technology Services,Fulltime,Officials and administrators,M,Asian,1971,2005-07-01,Y,Davidson,2024,53,50 to 54 years,2005,19
+2041,ST10,70587.67,7290,Electrical Inspector 2,Codes Administration,Fulltime,Officials and administrators,M,White,1967,2005-07-05,N,Davidson,2024,57,55 to 59 years,2005,19
+2051,OR12,141019.07,10386,Bureau Director,Health,Fulltime,Officials and administrators,F,Black,1965,2005-08-13,Y,Davidson,2024,59,55 to 59 years,2005,19
+2078,OR11,111373.52,10752,Facility Admin-DCSO,Sheriff,Fulltime,Officials and administrators,F,White,1968,2005-10-01,Y,Davidson,2024,56,55 to 59 years,2005,19
+2108,PS09,213086.4,10154,Police Dpty Chief,Police,Fulltime,Officials and administrators,F,White,1971,2005-12-01,Y,Davidson,2024,53,50 to 54 years,2005,19
+2122,OR08,97223.03,7234,Information Systems Advisor 1,NDOT,Fulltime,Officials and administrators,M,White,1976,2005-12-05,Y,Davidson,2024,48,45 to 49 years,2005,19
+2137,OR10,111525.73,6531,Human Resources Mgr,Finance,Fulltime,Officials and administrators,F,Black,1970,2006-01-09,Y,Davidson,2024,54,50 to 54 years,2006,18
+2161,OR11,168185.2,7762,Special Projects Mgr,Water Services,Fulltime,Officials and administrators,F,White,1968,2006-03-11,Y,Davidson,2024,56,55 to 59 years,2006,18
+2162,OR11,156851.68,7762,Special Projects Mgr,Juvenile Court,Fulltime,Officials and administrators,M,White,1963,2006-03-16,Y,Davidson,2024,61,60 to 61 years,2006,18
+2173,OR13,196258.27,7192,Assoc Metropolitan Attorney,Law,Fulltime,Officials and administrators,F,White,1981,2006-04-17,Y,Davidson,2024,43,40 to 44 years,2006,18
+2187,OR07,96128.83,7242,Admin Svcs Mgr,Police,Fulltime,Officials and administrators,F,Black,1986,2006-05-16,Y,Davidson,2024,38,35 to 39 years,2006,18
+2216,OR08,95712.45,10108,Finance Admin,Finance,Fulltime,Officials and administrators,M,White,1970,2006-08-07,Y,Davidson,2024,54,50 to 54 years,2006,18
+2220,ST09,57179.85,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,M,White,1969,2006-08-14,N,Davidson,2024,55,55 to 59 years,2006,18
+2238,OR09,113171.67,10999,Chief Deputy Clk-Admin,County Clerk,Fulltime,Officials and administrators,M,White,1972,2006-09-01,N,Davidson,2024,52,50 to 54 years,2006,18
+2250,OR08,95554.78,10108,Finance Admin,Human Resources,Fulltime,Officials and administrators,F,Black,1981,2006-09-18,Y,Davidson,2024,43,40 to 44 years,2006,18
+2257,OR07,83234.68,7242,Admin Svcs Mgr,Sheriff,Fulltime,Officials and administrators,F,White,1973,2006-10-01,Y,Davidson,2024,51,50 to 54 years,2006,18
+2268,OR11,111373.52,10752,Facility Admin-DCSO,Sheriff,Fulltime,Officials and administrators,M,Asian,1964,2006-11-13,Y,Davidson,2024,60,60 to 61 years,2006,18
+2277,OR11,132215.53,10354,Exe Administrator Police/Fire,Police,Fulltime,Officials and administrators,F,White,1963,2006-12-01,Y,Davidson,2024,61,60 to 61 years,2006,18
+2284,OR08,92939.69,7234,Information Systems Advisor 1,Emergency Communications,Fulltime,Officials and administrators,F,Black,1964,2006-12-18,Y,Davidson,2024,60,60 to 61 years,2006,18
+2288,OR11,129970.63,6559,Judicial Commissioner,General Sessions Court,Fulltime,Officials and administrators,M,White,1971,2007-01-01,Y,Davidson,2024,53,50 to 54 years,2007,17
+2293,OR08,93761.86,10108,Finance Admin,State Fair Board,Fulltime,Officials and administrators,F,Black,1982,2007-01-03,Y,Davidson,2024,42,40 to 44 years,2007,17
+2381,FD06A,95359.18,10839,Fire Arson Investigator,Fire,Fulltime,Officials and administrators,M,White,1981,2007-07-01,N,Davidson,2024,43,40 to 44 years,2007,17
+2407,CA09,145932.8,10634,Dir Of Technology-Conv Center,Convention Center Authority,Fulltime,Officials and administrators,M,White,1979,2007-08-31,Y,Davidson,2024,45,45 to 49 years,2007,17
+2415,OR13,151406.02,6553,Parks & Recreation Asst Dir,Parks,Fulltime,Officials and administrators,M,White,1962,2007-09-21,Y,Davidson,2024,62,62 to 64 years,2007,17
+2431,OR08,106257.13,7234,Information Systems Advisor 1,Assessor of Property,Fulltime,Officials and administrators,M,White,1978,2007-10-08,Y,Davidson,2024,46,45 to 49 years,2007,17
+2438,OR10,145099.11,6531,Human Resources Mgr,Water Services,Fulltime,Officials and administrators,M,Black,1966,2007-10-20,Y,Davidson,2024,58,55 to 59 years,2007,17
+2448,ST09,63906.71,6910,Mech/Gas Inspector 1,Codes Administration,Fulltime,Officials and administrators,M,White,1962,2007-11-12,N,Davidson,2024,62,62 to 64 years,2007,17
+2467,OR12,167577.66,11304,Deputy Chief-DCSO,Sheriff,Fulltime,Officials and administrators,F,White,1975,2007-12-17,Y,Davidson,2024,49,45 to 49 years,2007,17
+2532,OR09,133960.07,10744,Health Manager 3,Health,Fulltime,Officials and administrators,F,White,1955,2008-02-19,Y,Davidson,2024,69,67 to 69 years,2008,16
+2583,OR11,155611.72,11159,DCSO Human Resources Director,Sheriff,Fulltime,Officials and administrators,M,Black,1981,2008-06-16,Y,Davidson,2024,43,40 to 44 years,2008,16
+2594,OR11,146279.98,7081,Codes Admin Asst Dir,Codes Administration,Fulltime,Officials and administrators,F,White,1985,2008-07-01,Y,Davidson,2024,39,35 to 39 years,2008,16
+2601,OR09,97076.6,10863,Admin Svcs Division Manager,Juvenile Court,Fulltime,Officials and administrators,M,Black,1969,2008-07-28,N,Davidson,2024,55,55 to 59 years,2008,16
+2640,DP01,169404.8,11306,Community Review Board Exec Director,Community Review Board,Fulltime,Officials and administrators,F,Black,1968,2008-10-20,Y,Davidson,2024,56,55 to 59 years,2008,16
+2641,OR08,89830.84,7234,Information Systems Advisor 1,Public Library,Fulltime,Officials and administrators,M,White,1973,2008-10-20,Y,Davidson,2024,51,50 to 54 years,2008,16
+2644,ST09,63906.71,6868,Plumbing Inspector 1,Codes Administration,Fulltime,Officials and administrators,M,White,1968,2008-11-03,N,Davidson,2024,56,55 to 59 years,2008,16
+2649,MAC10D,103489.31,11290,Director of Early Education-MAC,Metro Action Commission,Fulltime,Officials and administrators,F,Black,1983,2008-12-08,Y,Davidson,2024,41,40 to 44 years,2008,16
+2659,DP02,228269.06,7113,Chief Info Officer,Information Technology Services,Fulltime,Officials and administrators,M,White,1966,2009-01-05,Y,Davidson,2024,58,55 to 59 years,2009,15
+2680,ST11,65458.76,11198,Short Term Rental Inspector,Codes Administration,Fulltime,Officials and administrators,M,White,1972,2009-04-13,Y,Davidson,2024,52,50 to 54 years,2009,15
+2711,OR09,122472.97,10744,Health Manager 3,Health,Fulltime,Officials and administrators,F,Black,1964,2009-09-30,Y,Davidson,2024,60,60 to 61 years,2009,15
+2738,OR11,130055.01,10887,Information Systems Advisor 3,Police,Fulltime,Officials and administrators,M,White,1977,2009-10-16,Y,Davidson,2024,47,45 to 49 years,2009,15
+2744,FD05A,84849.35,2534,Fire Inspector 2,Fire,Fulltime,Officials and administrators,F,White,1966,2009-10-16,N,Davidson,2024,58,55 to 59 years,2009,15
+2775,PS09,193366.8,10154,Police Dpty Chief,Police,Fulltime,Officials and administrators,M,White,1986,2009-11-01,Y,Davidson,2024,38,35 to 39 years,2009,15
+2781,ST11,73639.07,7421,Zoning Examiner,Codes Administration,Fulltime,Officials and administrators,M,White,1964,2009-12-14,N,Davidson,2024,60,60 to 61 years,2009,15
+2786,OR07,105396.68,7242,Admin Svcs Mgr,Police,Fulltime,Officials and administrators,F,Black,1984,2010-01-01,Y,Davidson,2024,40,40 to 44 years,2010,14
+2790,ST09,53816.4,6922,Property Stan Insp 1,Codes Administration,Fulltime,Officials and administrators,M,Black,1970,2010-01-11,N,Davidson,2024,54,50 to 54 years,2010,14
+2820,OR07,98687.68,7242,Admin Svcs Mgr,Assessor of Property,Fulltime,Officials and administrators,M,White,1966,2010-04-19,Y,Davidson,2024,58,55 to 59 years,2010,14
+2828,CA08,84032.0,10658,Technology Mgr-Conv Ctr Auth,Convention Center Authority,Fulltime,Officials and administrators,M,White,1971,2010-05-01,Y,Davidson,2024,53,50 to 54 years,2010,14
+2900,OR07,83234.68,6870,Plumbing Inspection Chief,Codes Administration,Fulltime,Officials and administrators,M,White,1954,2010-10-04,Y,Davidson,2024,70,70 to 74 years,2010,14
+2945,ST09,62224.99,6910,Mech/Gas Inspector 1,Codes Administration,Fulltime,Officials and administrators,M,White,1961,2011-01-10,N,Davidson,2024,63,62 to 64 years,2011,13
+2959,OR07,113229.2,10844,Juvenile Court Magistrate 1,Juvenile Court,Fulltime,Officials and administrators,F,White,1977,2011-02-07,Y,Davidson,2024,47,45 to 49 years,2011,13
+2962,OR08,93045.28,7234,Information Systems Advisor 1,Information Technology Services,Fulltime,Officials and administrators,F,White,1987,2011-02-14,Y,Davidson,2024,37,35 to 39 years,2011,13
+2988,OR07,85731.72,7242,Admin Svcs Mgr,Water Services,Fulltime,Officials and administrators,M,Black,1971,2011-04-11,Y,Davidson,2024,53,50 to 54 years,2011,13
+2992,OR08,125108.64,7234,Information Systems Advisor 1,Police,Fulltime,Officials and administrators,M,White,1972,2011-05-01,Y,Davidson,2024,52,50 to 54 years,2011,13
+3014,FD06B,95278.31,10839,Fire Arson Investigator,Fire,Fulltime,Officials and administrators,M,Black,1985,2011-05-16,N,Davidson,2024,39,35 to 39 years,2011,13
+3018,FD06B,95278.31,10839,Fire Arson Investigator,Fire,Fulltime,Officials and administrators,M,Black,1978,2011-05-16,N,Davidson,2024,46,45 to 49 years,2011,13
+3057,OR08,97520.16,7234,Information Systems Advisor 1,Information Technology Services,Fulltime,Officials and administrators,F,Native,1978,2011-05-30,Y,Davidson,2024,46,45 to 49 years,2011,13
+3094,OR07,110168.77,7242,Admin Svcs Mgr,Water Services,Fulltime,Officials and administrators,M,Black,1957,2011-07-30,Y,Davidson,2024,67,67 to 69 years,2011,13
+3096,OR11,153442.46,10845,Juvenile Court Magistrate 2,Juvenile Court,Fulltime,Officials and administrators,F,White,1972,2011-08-01,Y,Davidson,2024,52,50 to 54 years,2011,13
+3134,ST09,62224.99,6821,Electrical Inspector 1,Codes Administration,Fulltime,Officials and administrators,M,White,1982,2011-10-24,N,Davidson,2024,42,40 to 44 years,2011,13
+3153,OR10,138719.82,7407,Information Systems Advisor 2,Police,Fulltime,Officials and administrators,M,White,1960,2011-12-01,Y,Davidson,2024,64,62 to 64 years,2011,13
+3206,OR07,80810.37,7242,Admin Svcs Mgr,General Services,Fulltime,Officials and administrators,M,White,1986,2012-03-16,Y,Davidson,2024,38,35 to 39 years,2012,12
+3223,OR10,122152.34,6232,Finance Mgr,Fire,Fulltime,Officials and administrators,F,White,1963,2012-05-01,Y,Davidson,2024,61,60 to 61 years,2012,12
+3278,OR07,101828.09,7242,Admin Svcs Mgr,Municipal Auditorium,Fulltime,Officials and administrators,F,Black,1982,2012-08-01,Y,Davidson,2024,42,40 to 44 years,2012,12
+3280,OR05,86289.85,7377,Program Mgr 2,Water Services,Fulltime,Officials and administrators,F,White,1960,2012-08-06,Y,Davidson,2024,64,62 to 64 years,2012,12
+3368,DP01,119686.5,3140,Metropolitan Clerk,Metropolitan Clerk,Fulltime,Officials and administrators,M,White,1982,2012-11-19,Y,Davidson,2024,42,40 to 44 years,2012,12
+3406,FD06,82257.67,10839,Fire Arson Investigator,Fire,Fulltime,Officials and administrators,M,Hispanic,1989,2013-01-01,N,Davidson,2024,35,35 to 39 years,2013,11
+3457,OR01,63307.73,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,F,Black,1977,2013-01-22,N,Davidson,2024,47,45 to 49 years,2013,11
+3458,OR07,105000.0,7242,Admin Svcs Mgr,Assessor of Property,Fulltime,Officials and administrators,F,Two or more,1968,2013-01-22,Y,Davidson,2024,56,55 to 59 years,2013,11
+3470,OR07,92803.0,7242,Admin Svcs Mgr,Human Relations Commission,Fulltime,Officials and administrators,M,White,1983,2013-02-11,Y,Davidson,2024,41,40 to 44 years,2013,11
+3500,OR10,102811.31,6232,Finance Mgr,Police,Fulltime,Officials and administrators,M,White,1987,2013-03-20,Y,Davidson,2024,37,35 to 39 years,2013,11
+3502,OR07,91202.63,7242,Admin Svcs Mgr,Water Services,Fulltime,Officials and administrators,M,Black,1971,2013-03-20,Y,Davidson,2024,53,50 to 54 years,2013,11
+3521,CA09,126672.0,10626,Dir Event Srvs-Convention Cent,Convention Center Authority,Fulltime,Officials and administrators,M,White,1963,2013-04-08,Y,Davidson,2024,61,60 to 61 years,2013,11
+3523,OR05,86642.11,4400,Appraiser 4,Assessor of Property,Fulltime,Officials and administrators,M,White,1973,2013-04-15,N,Davidson,2024,51,50 to 54 years,2013,11
+3552,OR07,113468.17,7242,Admin Svcs Mgr,Arts Commission,Fulltime,Officials and administrators,F,White,1970,2013-05-13,Y,Davidson,2024,54,50 to 54 years,2013,11
+3587,OR10,142391.13,10468,Environmental Lab Supt,Water Services,Fulltime,Officials and administrators,M,Black,1959,2013-06-22,Y,Davidson,2024,65,65 to 66 years,2013,11
+3605,OR11,111373.52,10752,Facility Admin-DCSO,Sheriff,Fulltime,Officials and administrators,M,White,1991,2013-07-01,Y,Davidson,2024,33,30 to 34 years,2013,11
+3661,OR05,75040.61,7377,Program Mgr 2,Sheriff,Fulltime,Officials and administrators,M,White,1989,2013-10-01,N,Davidson,2024,35,35 to 39 years,2013,11
+3691,NS,68318.64,7242,Admin Svcs Mgr,Office of Family Safety,Fulltime,Officials and administrators,F,White,1967,2013-10-14,Y,Davidson,2024,57,55 to 59 years,2013,11
+3708,OR09,100846.57,7312,General Svcs Div Mgr,General Services,Fulltime,Officials and administrators,M,White,1986,2013-10-28,Y,Davidson,2024,38,35 to 39 years,2013,11
+3728,OR09,112957.01,10863,Admin Svcs Division Manager,Public Library,Fulltime,Officials and administrators,F,Two or more,1981,2013-11-25,Y,Davidson,2024,43,40 to 44 years,2013,11
+3770,OR13,143202.67,7420,Water Svcs Asst Dir,Water Services,Fulltime,Officials and administrators,M,Black,1966,2014-01-04,Y,Davidson,2024,58,55 to 59 years,2014,10
+3832,OR05,84068.59,7377,Program Mgr 2,Public Defender,Fulltime,Officials and administrators,F,White,1990,2014-03-27,N,Davidson,2024,34,30 to 34 years,2014,10
+3874,ST09,57179.85,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,M,Black,1973,2014-05-12,N,Davidson,2024,51,50 to 54 years,2014,10
+3883,OR11,131883.12,7205,Deputy Public Defender,Public Defender,Fulltime,Officials and administrators,F,White,1980,2014-05-27,Y,Davidson,2024,44,40 to 44 years,2014,10
+3919,OR11,160000.0,10160,Plan Asst Exec Dir-Prj Mgmt,Planning Commission,Fulltime,Officials and administrators,F,White,1974,2014-07-14,Y,Davidson,2024,50,50 to 54 years,2014,10
+3939,OR09,103988.46,10744,Health Manager 3,Health,Fulltime,Officials and administrators,F,White,1980,2014-07-19,Y,Davidson,2024,44,40 to 44 years,2014,10
+3956,OR07,104834.0,7242,Admin Svcs Mgr,Police,Fulltime,Officials and administrators,F,White,1986,2014-08-12,Y,Davidson,2024,38,35 to 39 years,2014,10
+3964,DP01,144711.15,10802,Office of Family Safety-Dir,Office of Family Safety,Fulltime,Officials and administrators,F,White,1967,2014-08-21,Y,Davidson,2024,57,55 to 59 years,2014,10
+4022,OR07,87442.85,7242,Admin Svcs Mgr,NDOT,Fulltime,Officials and administrators,F,Black,1968,2014-10-11,Y,Davidson,2024,56,55 to 59 years,2014,10
+4071,OR10,111036.21,6232,Finance Mgr,Social Services,Fulltime,Officials and administrators,M,White,1989,2014-12-08,Y,Davidson,2024,35,35 to 39 years,2014,10
+4072,OR09,94249.13,10863,Admin Svcs Division Manager,Office of Family Safety,Fulltime,Officials and administrators,F,Black,1988,2014-12-15,N,Davidson,2024,36,35 to 39 years,2014,10
+4073,OR08,110906.93,10108,Finance Admin,Finance,Fulltime,Officials and administrators,M,White,1948,2014-12-15,Y,Davidson,2024,76,75 to 79 years,2014,10
+4080,OR10,104867.54,6232,Finance Mgr,Finance,Fulltime,Officials and administrators,F,Asian,1987,2015-01-05,Y,Davidson,2024,37,35 to 39 years,2015,9
+4085,OR10,110131.47,6232,Finance Mgr,Finance,Fulltime,Officials and administrators,F,White,1989,2015-01-05,Y,Davidson,2024,35,35 to 39 years,2015,9
+4107,OR05,71500.0,4400,Appraiser 4,Assessor of Property,Fulltime,Officials and administrators,M,White,1988,2015-01-12,N,Davidson,2024,36,35 to 39 years,2015,9
+4127,OR10,110131.47,6232,Finance Mgr,Finance,Fulltime,Officials and administrators,M,White,1987,2015-02-16,Y,Davidson,2024,37,35 to 39 years,2015,9
+4132,OR09,111363.6,10744,Health Manager 3,Health,Fulltime,Officials and administrators,F,Black,1978,2015-02-23,Y,Davidson,2024,46,45 to 49 years,2015,9
+4149,NS,122000.0,11288,Deputy Adminstrator of Elections,Election Commission,Fulltime,Officials and administrators,F,White,1956,2015-03-09,Y,Davidson,2024,68,67 to 69 years,2015,9
+4248,OR07,100863.18,7242,Admin Svcs Mgr,General Services,Fulltime,Officials and administrators,M,Black,1987,2015-06-22,Y,Davidson,2024,37,35 to 39 years,2015,9
+4387,NS,251510.82,11103,Director of Development/Spec Projects,Planning Commission,Fulltime,Officials and administrators,M,White,1956,2015-10-26,Y,Davidson,2024,68,67 to 69 years,2015,9
+4425,OR13,188251.47,11013,Chief of Staff-Sheriff,Sheriff,Fulltime,Officials and administrators,F,White,1970,2015-11-30,Y,Davidson,2024,54,50 to 54 years,2015,9
+4480,OR10,106923.76,7407,Information Systems Advisor 2,Juvenile Court,Fulltime,Officials and administrators,F,White,1959,2016-01-18,N,Davidson,2024,65,65 to 66 years,2016,8
+4481,OR10,114952.62,6232,Finance Mgr,Finance,Fulltime,Officials and administrators,M,White,1987,2016-01-18,Y,Davidson,2024,37,35 to 39 years,2016,8
+4482,ST09,60543.28,6868,Plumbing Inspector 1,Codes Administration,Fulltime,Officials and administrators,M,White,1974,2016-01-18,N,Davidson,2024,50,50 to 54 years,2016,8
+4490,OR11,111373.52,11324,Office of Family Safety Asst Director,Office of Family Safety,Fulltime,Officials and administrators,F,Black,1984,2016-01-20,Y,Davidson,2024,40,40 to 44 years,2016,8
+4500,FD07B,90095.51,1495,Fire Marshal-Asst,Fire,Fulltime,Officials and administrators,M,Black,1972,2016-02-01,N,Davidson,2024,52,50 to 54 years,2016,8
+4569,OR09,115663.94,10863,Admin Svcs Division Manager,General Sessions Court,Fulltime,Officials and administrators,M,White,1968,2016-04-19,Y,Davidson,2024,56,55 to 59 years,2016,8
+4600,OR13,157282.05,10469,General Services Assistant Dir,General Services,Fulltime,Officials and administrators,M,White,1958,2016-05-09,Y,Davidson,2024,66,65 to 66 years,2016,8
+4620,HD04,235392.67,7024,Medical Svcs Dir,Health,Fulltime,Officials and administrators,F,Black,1975,2016-06-01,Y,Davidson,2024,49,45 to 49 years,2016,8
+4638,NS,168195.11,4080,Admin Of Elections,Election Commission,Fulltime,Officials and administrators,M,White,1957,2016-06-20,Y,Davidson,2024,67,67 to 69 years,2016,8
+4704,OR06,74117.92,11194,Safety Specialist,Human Resources,Fulltime,Officials and administrators,M,White,1959,2016-07-30,Y,Davidson,2024,65,65 to 66 years,2016,8
+4721,DP01,142662.86,1980,Fair Director,State Fair Board,Fulltime,Officials and administrators,F,White,1970,2016-08-15,Y,Davidson,2024,54,50 to 54 years,2016,8
+4734,OR07,90018.31,7242,Admin Svcs Mgr,Water Services,Fulltime,Officials and administrators,F,White,1985,2016-08-27,Y,Davidson,2024,39,35 to 39 years,2016,8
+4735,OR07,95830.31,7242,Admin Svcs Mgr,Water Services,Fulltime,Officials and administrators,M,White,1988,2016-08-27,Y,Davidson,2024,36,35 to 39 years,2016,8
+4744,OR13,185744.43,11119,Planning Deputy Ex Director,Planning Commission,Fulltime,Officials and administrators,M,White,1959,2016-09-01,Y,Davidson,2024,65,65 to 66 years,2016,8
+4745,OR13,146898.9,10948,Deputy Director,Assessor of Property,Fulltime,Officials and administrators,F,Black,1964,2016-09-01,Y,Davidson,2024,60,60 to 61 years,2016,8
+4749,DP02,242931.35,1940,Planning Exec Dir,Planning Commission,Fulltime,Officials and administrators,F,White,1977,2016-09-05,Y,Davidson,2024,47,45 to 49 years,2016,8
+4839,ST09,58861.56,6868,Plumbing Inspector 1,Codes Administration,Fulltime,Officials and administrators,M,White,1977,2016-10-31,N,Davidson,2024,47,45 to 49 years,2016,8
+4877,OR09,103721.0,10129,Planning Mgr 1,Planning Commission,Fulltime,Officials and administrators,F,White,1983,2016-12-05,Y,Davidson,2024,41,40 to 44 years,2016,8
+4910,OR07,101481.67,7242,Admin Svcs Mgr,Fire,Fulltime,Officials and administrators,F,Black,1987,2017-01-01,Y,Davidson,2024,37,35 to 39 years,2017,7
+4930,OR08,91941.25,10108,Finance Admin,Finance,Fulltime,Officials and administrators,M,Black,1989,2017-01-02,Y,Davidson,2024,35,35 to 39 years,2017,7
+4934,OR05,70000.0,7377,Program Mgr 2,Office of Family Safety,Fulltime,Officials and administrators,M,White,1987,2017-01-09,N,Davidson,2024,37,35 to 39 years,2017,7
+4950,OR11,141204.3,10887,Information Systems Advisor 3,Information Technology Services,Fulltime,Officials and administrators,F,Black,1977,2017-01-30,Y,Davidson,2024,47,45 to 49 years,2017,7
+4957,FD07B,90095.51,1495,Fire Marshal-Asst,Fire,Fulltime,Officials and administrators,M,White,1989,2017-02-08,N,Davidson,2024,35,35 to 39 years,2017,7
+5001,OR13,131001.81,10469,General Services Assistant Dir,General Services,Fulltime,Officials and administrators,F,White,1979,2017-03-13,Y,Davidson,2024,45,45 to 49 years,2017,7
+5006,OR13,175042.86,6108,Finance Asst Dir,Finance,Fulltime,Officials and administrators,F,White,1985,2017-03-25,Y,Davidson,2024,39,35 to 39 years,2017,7
+5010,OR07,80810.37,11197,Short Term Rental Inspection Chief,Codes Administration,Fulltime,Officials and administrators,M,White,1958,2017-03-27,Y,Davidson,2024,66,65 to 66 years,2017,7
+5011,OR09,106515.04,10863,Admin Svcs Division Manager,NDOT,Fulltime,Officials and administrators,F,White,1987,2017-03-27,Y,Davidson,2024,37,35 to 39 years,2017,7
+5023,FD03A,69757.04,7310,Fire Inspector 1,Fire,Fulltime,Officials and administrators,M,White,1994,2017-04-10,N,Davidson,2024,30,30 to 34 years,2017,7
+5043,OR13,160784.87,11270,Transportation Assistant Director,NDOT,Fulltime,Officials and administrators,F,Black,1972,2017-05-08,Y,Davidson,2024,52,50 to 54 years,2017,7
+5068,NS,276162.35,1080,Chief Medical Dir,Health,Fulltime,Officials and administrators,M,White,1959,2017-05-30,Y,Davidson,2024,65,65 to 66 years,2017,7
+5105,OR11,114714.73,10887,Information Systems Advisor 3,Justice Integration Services,Fulltime,Officials and administrators,M,White,1964,2017-07-01,Y,Davidson,2024,60,60 to 61 years,2017,7
+5145,OR09,117456.39,10863,Admin Svcs Division Manager,Fire,Fulltime,Officials and administrators,M,Black,1980,2017-08-01,Y,Davidson,2024,44,40 to 44 years,2017,7
+5189,OR08,92860.31,7234,Information Systems Advisor 1,Police,Fulltime,Officials and administrators,M,Asian,1993,2017-09-16,Y,Davidson,2024,31,30 to 34 years,2017,7
+5230,OR01,58162.2,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,F,Black,1966,2017-10-02,N,Davidson,2024,58,55 to 59 years,2017,7
+5263,OR01,57597.51,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,Black,1988,2017-10-25,N,Davidson,2024,36,35 to 39 years,2017,7
+5266,OR09,94249.13,10863,Admin Svcs Division Manager,Office of Family Safety,Fulltime,Officials and administrators,F,White,1989,2017-10-30,N,Davidson,2024,35,35 to 39 years,2017,7
+5267,OR05,70000.0,4400,Appraiser 4,Assessor of Property,Fulltime,Officials and administrators,M,White,1987,2017-10-30,N,Davidson,2024,37,35 to 39 years,2017,7
+5270,OR08,92860.31,7234,Information Systems Advisor 1,Police,Fulltime,Officials and administrators,M,Asian,1957,2017-11-01,Y,Davidson,2024,67,67 to 69 years,2017,7
+5278,OR07,80810.37,6542,Property Standards Insp Chief,Codes Administration,Fulltime,Officials and administrators,M,White,1980,2017-11-06,N,Davidson,2024,44,40 to 44 years,2017,7
+5280,OR05,76426.0,7377,Program Mgr 2,Public Library,Fulltime,Officials and administrators,M,Black,1979,2017-11-06,Y,Davidson,2024,45,45 to 49 years,2017,7
+5291,OR10,129292.56,6531,Human Resources Mgr,Human Resources,Fulltime,Officials and administrators,F,White,1959,2017-11-27,Y,Davidson,2024,65,65 to 66 years,2017,7
+5386,OR07,96610.49,7242,Admin Svcs Mgr,Codes Administration,Fulltime,Officials and administrators,F,White,1978,2018-01-29,Y,Davidson,2024,46,45 to 49 years,2018,6
+5391,OR03,59700.0,7247,Appraiser 3,Assessor of Property,Fulltime,Officials and administrators,M,Black,1984,2018-02-06,N,Davidson,2024,40,40 to 44 years,2018,6
+5408,OR12,124824.0,11248,Attorney 4-STC,State Trial Courts,Fulltime,Officials and administrators,F,White,1970,2018-02-20,Y,Davidson,2024,54,50 to 54 years,2018,6
+5413,OR07,96164.69,7242,Admin Svcs Mgr,Public Library,Fulltime,Officials and administrators,M,Hispanic,1959,2018-02-26,Y,Davidson,2024,65,65 to 66 years,2018,6
+5465,OR10,105895.65,7782,Info Systems Mgr,Information Technology Services,Fulltime,Officials and administrators,M,White,1979,2018-04-30,Y,Davidson,2024,45,45 to 49 years,2018,6
+5500,OR11,118134.5,6559,Judicial Commissioner,General Sessions Court,Fulltime,Officials and administrators,F,Black,1984,2018-05-14,Y,Davidson,2024,40,40 to 44 years,2018,6
+5560,NS,1262.56,7762,Special Projects Mgr,District Attorney,Fulltime,Officials and administrators,F,White,1963,2018-07-16,N,Davidson,2024,61,60 to 61 years,2018,6
+5568,OR11,111373.52,7762,Special Projects Mgr,General Services,Fulltime,Officials and administrators,F,White,1985,2018-07-30,Y,Davidson,2024,39,35 to 39 years,2018,6
+5576,OR03,62720.0,7247,Appraiser 3,Assessor of Property,Fulltime,Officials and administrators,M,White,1993,2018-08-08,N,Davidson,2024,31,30 to 34 years,2018,6
+5577,OR05,69448.27,4400,Appraiser 4,Assessor of Property,Fulltime,Officials and administrators,M,Hispanic,1993,2018-08-08,N,Davidson,2024,31,30 to 34 years,2018,6
+5643,OR12,133710.71,10386,Bureau Director,Health,Fulltime,Officials and administrators,F,White,1988,2018-10-06,Y,Davidson,2024,36,35 to 39 years,2018,6
+5708,OR11,111373.52,7762,Special Projects Mgr,Office of Homeless Services,Fulltime,Officials and administrators,F,White,1988,2018-10-29,Y,Davidson,2024,36,35 to 39 years,2018,6
+5715,OR01,52482.71,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,Black,1994,2018-11-14,N,Davidson,2024,30,30 to 34 years,2018,6
+5728,OR13,196258.27,7192,Assoc Metropolitan Attorney,Law,Fulltime,Officials and administrators,F,White,1979,2018-12-01,Y,Davidson,2024,45,45 to 49 years,2018,6
+5730,OR10,104099.9,6232,Finance Mgr,Office of Family Safety,Fulltime,Officials and administrators,F,Black,1982,2018-12-01,Y,Davidson,2024,42,40 to 44 years,2018,6
+5778,FD05,77649.16,2534,Fire Inspector 2,Fire,Fulltime,Officials and administrators,M,White,1968,2019-01-16,N,Davidson,2024,56,55 to 59 years,2019,5
+5786,ST09,50452.95,6922,Property Stan Insp 1,Codes Administration,Fulltime,Officials and administrators,M,Hispanic,1988,2019-01-28,N,Davidson,2024,36,35 to 39 years,2019,5
+5793,OR09,94249.13,10863,Admin Svcs Division Manager,Office of Family Safety,Fulltime,Officials and administrators,F,White,1988,2019-02-06,N,Davidson,2024,36,35 to 39 years,2019,5
+5799,OR10,127441.32,7407,Information Systems Advisor 2,Information Technology Services,Fulltime,Officials and administrators,F,White,1987,2019-02-11,Y,Davidson,2024,37,35 to 39 years,2019,5
+5867,OR07,80810.37,7242,Admin Svcs Mgr,Office of Homeless Services,Fulltime,Officials and administrators,F,White,1992,2019-04-01,Y,Davidson,2024,32,30 to 34 years,2019,5
+5873,ST09,57179.85,6810,Bldg Inspector 1,Codes Administration,Fulltime,Officials and administrators,M,Black,1958,2019-04-08,N,Davidson,2024,66,65 to 66 years,2019,5
+5875,OR10,130754.11,7407,Information Systems Advisor 2,Information Technology Services,Fulltime,Officials and administrators,M,White,1978,2019-04-08,Y,Davidson,2024,46,45 to 49 years,2019,5
+5880,OR08,108169.98,7234,Information Systems Advisor 1,Information Technology Services,Fulltime,Officials and administrators,M,White,1980,2019-04-15,Y,Davidson,2024,44,40 to 44 years,2019,5
+5927,OR07,91774.84,7242,Admin Svcs Mgr,Water Services,Fulltime,Officials and administrators,M,White,1978,2019-05-04,Y,Davidson,2024,46,45 to 49 years,2019,5
+6012,OR10,117681.83,7782,Info Systems Mgr,Police,Fulltime,Officials and administrators,M,White,1994,2019-07-16,Y,Davidson,2024,30,30 to 34 years,2019,5
+6032,OR05,67426.0,7377,Program Mgr 2,Office of Family Safety,Fulltime,Officials and administrators,F,Hispanic,1997,2019-08-06,N,Davidson,2024,27,25 to 29 years,2019,5
+6134,OR08,93311.09,7234,Information Systems Advisor 1,Human Resources,Fulltime,Officials and administrators,F,White,1983,2019-09-12,Y,Davidson,2024,41,40 to 44 years,2019,5
+6171,NS,210835.07,11066,Chief of Operations-MO,Mayor's Office,Fulltime,Officials and administrators,F,White,1975,2019-09-30,Y,Davidson,2024,49,45 to 49 years,2019,5
+6189,ST09,57179.85,6868,Plumbing Inspector 1,Codes Administration,Fulltime,Officials and administrators,M,White,1967,2019-10-07,N,Davidson,2024,57,55 to 59 years,2019,5
+6226,FD06B,89808.94,11047,Fire Inspector 2- FTO,Fire,Fulltime,Officials and administrators,M,White,1990,2019-11-16,N,Davidson,2024,34,30 to 34 years,2019,5
+6242,OR07,92614.63,5945,Special Asst To The Dir,Finance,Fulltime,Officials and administrators,F,White,1972,2019-12-01,Y,Davidson,2024,52,50 to 54 years,2019,5
+6274,OR11,130943.77,280,Library Svcs Asst Dir,Public Library,Fulltime,Officials and administrators,F,White,1981,2020-01-13,Y,Davidson,2024,43,40 to 44 years,2020,4
+6301,ST09,53816.4,6922,Property Stan Insp 1,Codes Administration,Fulltime,Officials and administrators,M,White,1994,2020-02-10,N,Davidson,2024,30,30 to 34 years,2020,4
+6329,OR13,222664.0,6108,Finance Asst Dir,Finance,Fulltime,Officials and administrators,F,White,1970,2020-02-17,Y,Davidson,2024,54,50 to 54 years,2020,4
+6330,OR09,97076.6,10744,Health Manager 3,Health,Fulltime,Officials and administrators,M,White,1988,2020-02-18,Y,Davidson,2024,36,35 to 39 years,2020,4
+6332,OR09,115000.0,10863,Admin Svcs Division Manager,Community Review Board,Fulltime,Officials and administrators,M,Black,1967,2020-02-22,Y,Davidson,2024,57,55 to 59 years,2020,4
+6390,OR10,109072.51,6232,Finance Mgr,Sports Authority,Fulltime,Officials and administrators,F,White,1954,2020-03-23,Y,Davidson,2024,70,70 to 74 years,2020,4
+6392,OR01,59896.75,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,White,1973,2020-03-30,N,Davidson,2024,51,50 to 54 years,2020,4
+6504,OR07,83234.68,7242,Admin Svcs Mgr,Police,Fulltime,Officials and administrators,F,Black,1971,2020-07-16,N,Davidson,2024,53,50 to 54 years,2020,4
+6553,MAC13A,112719.55,10207,Admin Svcs & Operations Dir,Metro Action Commission,Fulltime,Officials and administrators,F,Black,1962,2020-08-17,Y,Davidson,2024,62,62 to 64 years,2020,4
+6594,OR10,132152.5,6232,Finance Mgr,Trustee,Fulltime,Officials and administrators,M,Black,1975,2020-09-01,Y,Davidson,2024,49,45 to 49 years,2020,4
+6604,OR05,87656.13,7377,Program Mgr 2,Sheriff,Fulltime,Officials and administrators,F,White,1969,2020-09-01,N,Davidson,2024,55,55 to 59 years,2020,4
+6639,OR13,162512.0,3160,Metropolitan Treasurer,Finance,Fulltime,Officials and administrators,F,Black,1979,2020-09-07,Y,Davidson,2024,45,45 to 49 years,2020,4
+6645,OR11,131574.3,6738,Metropolitan Zoning Admin,Codes Administration,Fulltime,Officials and administrators,M,White,1972,2020-09-14,Y,Davidson,2024,52,50 to 54 years,2020,4
+6656,OR05,67426.0,7377,Program Mgr 2,Office of Family Safety,Fulltime,Officials and administrators,F,Hispanic,1992,2020-09-28,N,Davidson,2024,32,30 to 34 years,2020,4
+6658,OR08,90155.63,7234,Information Systems Advisor 1,District Attorney,Fulltime,Officials and administrators,M,White,1993,2020-09-28,Y,Davidson,2024,31,30 to 34 years,2020,4
+6665,OR05,82426.18,7377,Program Mgr 2,General Sessions Court,Fulltime,Officials and administrators,F,White,1982,2020-10-01,N,Davidson,2024,42,40 to 44 years,2020,4
+6675,OR08,90155.63,7234,Information Systems Advisor 1,District Attorney,Fulltime,Officials and administrators,M,White,1983,2020-10-12,N,Davidson,2024,41,40 to 44 years,2020,4
+6679,FD03,60173.03,7310,Fire Inspector 1,Fire,Fulltime,Officials and administrators,M,Black,1978,2020-10-16,N,Davidson,2024,46,45 to 49 years,2020,4
+6682,OR08,94605.0,10108,Finance Admin,Police,Fulltime,Officials and administrators,F,White,1971,2020-10-16,Y,Davidson,2024,53,50 to 54 years,2020,4
+6693,FD03,60173.03,7310,Fire Inspector 1,Fire,Fulltime,Officials and administrators,M,Black,1984,2020-10-16,N,Davidson,2024,40,40 to 44 years,2020,4
+6709,ST09,52134.67,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,F,Black,1974,2020-10-19,N,Davidson,2024,50,50 to 54 years,2020,4
+6764,OR03,62720.0,7247,Appraiser 3,Assessor of Property,Fulltime,Officials and administrators,F,White,1990,2020-12-21,N,Davidson,2024,34,30 to 34 years,2020,4
+6877,ST09,52134.67,6922,Property Stan Insp 1,Codes Administration,Fulltime,Officials and administrators,M,White,1981,2021-03-22,N,Davidson,2024,43,40 to 44 years,2021,3
+6940,OR11,159445.0,7318,Info Systems Div Mgr,Information Technology Services,Fulltime,Officials and administrators,M,White,1969,2021-05-15,Y,Davidson,2024,55,55 to 59 years,2021,3
+6946,CA09,122304.0,11125,Human Resources Director-MCC,Convention Center Authority,Fulltime,Officials and administrators,M,Black,1970,2021-05-17,Y,Davidson,2024,54,50 to 54 years,2021,3
+6993,OR01,57392.65,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,Black,1992,2021-06-14,N,Davidson,2024,32,30 to 34 years,2021,3
+7008,DP02,230740.25,3130,Metropolitan Attorney,Law,Fulltime,Officials and administrators,M,White,1955,2021-06-28,Y,Davidson,2024,69,67 to 69 years,2021,3
+7021,CA09,107931.2,10636,Director of Communications-MCC,Convention Center Authority,Fulltime,Officials and administrators,F,White,1977,2021-07-06,Y,Davidson,2024,47,45 to 49 years,2021,3
+7036,ST08,47807.51,10846,Library Performing Artist,Public Library,Fulltime,Officials and administrators,F,White,1977,2021-07-12,N,Davidson,2024,47,45 to 49 years,2021,3
+7116,ST09,50452.95,6922,Property Stan Insp 1,Codes Administration,Fulltime,Officials and administrators,M,Black,1978,2021-08-07,N,Davidson,2024,46,45 to 49 years,2021,3
+7131,OR01,55751.77,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,Black,1996,2021-08-09,N,Davidson,2024,28,25 to 29 years,2021,3
+7174,OR08,91906.23,10108,Finance Admin,Finance,Fulltime,Officials and administrators,F,White,1994,2021-08-23,Y,Davidson,2024,30,30 to 34 years,2021,3
+7218,OR07,112917.7,7242,Admin Svcs Mgr,Police,Fulltime,Officials and administrators,F,White,1995,2021-09-16,Y,Davidson,2024,29,25 to 29 years,2021,3
+7259,OR10,129913.73,7407,Information Systems Advisor 2,Information Technology Services,Fulltime,Officials and administrators,M,White,1991,2021-10-04,Y,Davidson,2024,33,30 to 34 years,2021,3
+7268,NS,187112.68,11155,Chief Sustainability and Resilience Officer-MO,Mayor's Office,Fulltime,Officials and administrators,F,White,1985,2021-10-13,Y,Davidson,2024,39,35 to 39 years,2021,3
+7274,OR13,164807.48,10180,Dpty Dir Health,Health,Fulltime,Officials and administrators,F,Black,1964,2021-10-16,Y,Davidson,2024,60,60 to 61 years,2021,3
+7324,OR01,55177.85,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,F,Black,1996,2021-10-25,N,Davidson,2024,28,25 to 29 years,2021,3
+7327,OR01,52567.0,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,White,1979,2021-10-25,N,Davidson,2024,45,45 to 49 years,2021,3
+7342,OR13,185500.0,10948,Deputy Director,NDOT,Fulltime,Officials and administrators,M,White,1976,2021-11-01,Y,Davidson,2024,48,45 to 49 years,2021,3
+7346,OR05,73567.24,7377,Program Mgr 2,Public Library,Fulltime,Officials and administrators,M,Black,1982,2021-11-01,N,Davidson,2024,42,40 to 44 years,2021,3
+7367,OR05,73567.24,7377,Program Mgr 2,Public Library,Fulltime,Officials and administrators,F,Black,1990,2021-11-15,Y,Davidson,2024,34,30 to 34 years,2021,3
+7372,OR05,73567.24,7377,Program Mgr 2,Public Library,Fulltime,Officials and administrators,M,White,1986,2021-11-15,Y,Davidson,2024,38,35 to 39 years,2021,3
+7387,OR03,63585.63,7247,Appraiser 3,Assessor of Property,Fulltime,Officials and administrators,F,White,1987,2021-11-23,N,Davidson,2024,37,35 to 39 years,2021,3
+7449,OR11,175703.37,10160,Plan Asst Exec Dir-Prj Mgmt,Planning Commission,Fulltime,Officials and administrators,F,White,1972,2022-01-01,Y,Davidson,2024,52,50 to 54 years,2022,2
+7467,OR09,94249.13,10744,Health Manager 3,Health,Fulltime,Officials and administrators,F,White,1992,2022-01-08,Y,Davidson,2024,32,30 to 34 years,2022,2
+7474,DP02,254769.89,11121,Transportation Director,NDOT,Fulltime,Officials and administrators,F,White,1964,2022-01-10,Y,Davidson,2024,60,60 to 61 years,2022,2
+7476,OR06,75600.0,10472,Information Sys Media Analys 3,Public Library,Fulltime,Officials and administrators,M,Two or more,1992,2022-01-10,Y,Davidson,2024,32,30 to 34 years,2022,2
+7552,OR01,53543.39,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,F,White,1998,2022-02-07,N,Davidson,2024,26,25 to 29 years,2022,2
+7604,NS,116641.06,7112,Dir Of Farm Mkt,Farmer's Market,Fulltime,Officials and administrators,M,White,1959,2022-02-22,Y,Davidson,2024,65,65 to 66 years,2022,2
+7663,NS,183918.08,10160,Plan Asst Exec Dir-Prj Mgmt,Planning Commission,Fulltime,Officials and administrators,M,White,1964,2022-03-21,Y,Davidson,2024,60,60 to 61 years,2022,2
+7675,OR13,160481.07,11192,Public Property Officer,Finance,Fulltime,Officials and administrators,M,Black,1962,2022-03-28,Y,Davidson,2024,62,62 to 64 years,2022,2
+7683,OR09,103721.0,10129,Planning Mgr 1,Planning Commission,Fulltime,Officials and administrators,F,White,1984,2022-04-01,Y,Davidson,2024,40,40 to 44 years,2022,2
+7708,ST11,63413.67,7421,Zoning Examiner,Codes Administration,Fulltime,Officials and administrators,M,White,1958,2022-04-11,N,Davidson,2024,66,65 to 66 years,2022,2
+7761,OR01,52223.21,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,F,Black,1983,2022-04-25,N,Davidson,2024,41,40 to 44 years,2022,2
+7786,DP01,134031.7,1584,Human Relations Dir,Human Relations Commission,Fulltime,Officials and administrators,M,Black,1960,2022-05-01,Y,Davidson,2024,64,62 to 64 years,2022,2
+7812,ST09,52134.67,6922,Property Stan Insp 1,Codes Administration,Fulltime,Officials and administrators,M,Black,1990,2022-05-16,N,Davidson,2024,34,30 to 34 years,2022,2
+7822,OR09,108388.45,10863,Admin Svcs Division Manager,Public Defender,Fulltime,Officials and administrators,F,Asian,1976,2022-05-16,Y,Davidson,2024,48,45 to 49 years,2022,2
+7898,OR05,67426.0,7377,Program Mgr 2,Office of Family Safety,Fulltime,Officials and administrators,F,Black,1998,2022-06-06,N,Davidson,2024,26,25 to 29 years,2022,2
+7963,OR11,121700.8,6559,Judicial Commissioner,General Sessions Court,Fulltime,Officials and administrators,M,Black,1978,2022-06-24,Y,Davidson,2024,46,45 to 49 years,2022,2
+8013,OR09,103032.0,11267,Public Information Manager,Codes Administration,Fulltime,Officials and administrators,M,White,1991,2022-07-11,Y,Davidson,2024,33,30 to 34 years,2022,2
+8038,OR09,94249.13,10863,Admin Svcs Division Manager,Office of Family Safety,Fulltime,Officials and administrators,F,White,1986,2022-07-18,N,Davidson,2024,38,35 to 39 years,2022,2
+8060,DP01,201135.0,6650,Arts Commission Exec Dir,Arts Commission,Fulltime,Officials and administrators,M,Asian,1972,2022-07-27,Y,Davidson,2024,52,50 to 54 years,2022,2
+8103,OR01,51199.23,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,Black,1997,2022-08-08,N,Davidson,2024,27,25 to 29 years,2022,2
+8181,OR05,69448.27,7377,Program Mgr 2,Public Library,Fulltime,Officials and administrators,F,White,1989,2022-08-22,N,Davidson,2024,35,35 to 39 years,2022,2
+8200,OR07,83234.68,7242,Admin Svcs Mgr,General Services,Fulltime,Officials and administrators,F,White,1990,2022-08-29,Y,Davidson,2024,34,30 to 34 years,2022,2
+8210,NS,89028.0,11248,Attorney 4-STC,State Trial Courts,Fulltime,Officials and administrators,F,White,1975,2022-09-01,Y,Davidson,2024,49,45 to 49 years,2022,2
+8211,NS,204552.0,2233,General Session Judge,General Sessions Court,Fulltime,Officials and administrators,M,Black,1983,2022-09-01,Y,Davidson,2024,41,40 to 44 years,2022,2
+8219,NS,204552.0,2233,General Session Judge,General Sessions Court,Fulltime,Officials and administrators,F,Black,1970,2022-09-01,Y,Davidson,2024,54,50 to 54 years,2022,2
+8221,NS,112977.0,11248,Attorney 4-STC,State Trial Courts,Fulltime,Officials and administrators,F,White,1965,2022-09-01,Y,Davidson,2024,59,55 to 59 years,2022,2
+8231,NS,204552.0,2233,General Session Judge,General Sessions Court,Fulltime,Officials and administrators,M,White,1961,2022-09-01,Y,Davidson,2024,63,62 to 64 years,2022,2
+8280,FD05B,77583.3,2534,Fire Inspector 2,Fire,Fulltime,Officials and administrators,M,White,1988,2022-09-16,N,Davidson,2024,36,35 to 39 years,2022,2
+8303,OR01,51199.23,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,White,1996,2022-09-19,N,Davidson,2024,28,25 to 29 years,2022,2
+8309,ST09,52134.67,6922,Property Stan Insp 1,Codes Administration,Fulltime,Officials and administrators,M,White,1984,2022-09-19,N,Davidson,2024,40,40 to 44 years,2022,2
+8358,OR01,51199.23,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,White,1986,2022-10-03,N,Davidson,2024,38,35 to 39 years,2022,2
+8361,ST10,55729.1,7254,Bldg Inspector 2,Codes Administration,Fulltime,Officials and administrators,M,White,1967,2022-10-03,N,Davidson,2024,57,55 to 59 years,2022,2
+8368,OR07,113229.2,10844,Juvenile Court Magistrate 1,Juvenile Court,Fulltime,Officials and administrators,F,Black,1965,2022-10-10,Y,Davidson,2024,59,55 to 59 years,2022,2
+8447,OR09,98019.1,7312,General Svcs Div Mgr,General Services,Fulltime,Officials and administrators,M,White,1987,2022-10-31,Y,Davidson,2024,37,35 to 39 years,2022,2
+8454,OR01,51199.23,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,White,1988,2022-10-31,N,Davidson,2024,36,35 to 39 years,2022,2
+8459,OR07,89527.6,7242,Admin Svcs Mgr,NDOT,Fulltime,Officials and administrators,F,White,1990,2022-10-31,Y,Davidson,2024,34,30 to 34 years,2022,2
+8597,OR10,102811.31,7782,Info Systems Mgr,Information Technology Services,Fulltime,Officials and administrators,M,White,1993,2022-11-28,Y,Davidson,2024,31,30 to 34 years,2022,2
+8603,OR01,56166.79,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,White,1968,2022-11-28,N,Davidson,2024,56,55 to 59 years,2022,2
+8743,OR06,74117.92,10472,Information Sys Media Analys 3,Police,Fulltime,Officials and administrators,F,Black,2000,2023-01-16,Y,Davidson,2024,24,22 to 24 years,2023,1
+8763,OR07,94249.13,7242,Admin Svcs Mgr,Beer Board,Fulltime,Officials and administrators,M,White,1980,2023-01-23,N,Davidson,2024,44,40 to 44 years,2023,1
+8768,OR08,111512.89,7234,Information Systems Advisor 1,Information Technology Services,Fulltime,Officials and administrators,M,White,1984,2023-01-23,Y,Davidson,2024,40,40 to 44 years,2023,1
+8789,OR13,187789.6,11119,Planning Deputy Ex Director,Planning Commission,Fulltime,Officials and administrators,M,White,1979,2023-01-30,Y,Davidson,2024,45,45 to 49 years,2023,1
+8817,OR06,75600.28,10472,Information Sys Media Analys 3,Public Library,Fulltime,Officials and administrators,M,White,1981,2023-02-06,Y,Davidson,2024,43,40 to 44 years,2023,1
+8819,NS,185606.0,1339,Ct Admin,State Trial Courts,Fulltime,Officials and administrators,M,White,1982,2023-02-06,Y,Davidson,2024,42,40 to 44 years,2023,1
+8832,OR12,144192.86,10386,Bureau Director,Health,Fulltime,Officials and administrators,F,Black,1967,2023-02-13,Y,Davidson,2024,57,55 to 59 years,2023,1
+8886,ST09,52134.67,6810,Bldg Inspector 1,Codes Administration,Fulltime,Officials and administrators,M,White,1966,2023-02-20,N,Davidson,2024,58,55 to 59 years,2023,1
+8924,OR07,90986.37,7242,Admin Svcs Mgr,Water Services,Fulltime,Officials and administrators,M,White,1955,2023-03-04,Y,Davidson,2024,69,67 to 69 years,2023,1
+8934,ST08,46265.35,10846,Library Performing Artist,Public Library,Fulltime,Officials and administrators,F,White,1975,2023-03-06,N,Davidson,2024,49,45 to 49 years,2023,1
+8960,OR09,101230.0,10744,Health Manager 3,Health,Fulltime,Officials and administrators,F,Black,1962,2023-03-18,Y,Davidson,2024,62,62 to 64 years,2023,1
+8968,OR12,124824.0,11248,Attorney 4-STC,State Trial Courts,Fulltime,Officials and administrators,F,White,1982,2023-03-24,Y,Davidson,2024,42,40 to 44 years,2023,1
+8975,OR12,125557.0,11248,Attorney 4-STC,State Trial Courts,Fulltime,Officials and administrators,F,White,1977,2023-03-27,Y,Davidson,2024,47,45 to 49 years,2023,1
+9062,OR09,134000.0,6524,Assessments Manager,Assessor of Property,Fulltime,Officials and administrators,M,White,1972,2023-04-17,N,Davidson,2024,52,50 to 54 years,2023,1
+9073,OR07,109180.0,7242,Admin Svcs Mgr,Trustee,Fulltime,Officials and administrators,M,Black,1978,2023-04-18,Y,Davidson,2024,46,45 to 49 years,2023,1
+9160,OR01,50199.02,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,F,White,1999,2023-05-10,N,Davidson,2024,25,25 to 29 years,2023,1
+9197,OR09,94249.13,10744,Health Manager 3,Health,Fulltime,Officials and administrators,M,White,1961,2023-05-15,Y,Davidson,2024,63,62 to 64 years,2023,1
+9292,OR13,131001.81,6553,Parks & Recreation Asst Dir,Parks,Fulltime,Officials and administrators,M,White,1980,2023-06-05,Y,Davidson,2024,44,40 to 44 years,2023,1
+9297,OR07,87396.41,7242,Admin Svcs Mgr,Community Review Board,Fulltime,Officials and administrators,F,Black,1987,2023-06-08,Y,Davidson,2024,37,35 to 39 years,2023,1
+9330,OR08,89280.33,10108,Finance Admin,Public Library,Fulltime,Officials and administrators,F,White,1991,2023-06-12,N,Davidson,2024,33,30 to 34 years,2023,1
+9337,ST09,50452.95,6821,Electrical Inspector 1,Codes Administration,Fulltime,Officials and administrators,M,White,1988,2023-06-12,N,Davidson,2024,36,35 to 39 years,2023,1
+9406,OR01,50199.02,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,Black,1949,2023-06-30,N,Davidson,2024,75,75 to 79 years,2023,1
+9414,OR08,94249.13,7234,Information Systems Advisor 1,Justice Integration Services,Fulltime,Officials and administrators,M,White,1969,2023-07-03,Y,Davidson,2024,55,55 to 59 years,2023,1
+9565,ST09,50452.95,6922,Property Stan Insp 1,Codes Administration,Fulltime,Officials and administrators,M,White,1974,2023-08-07,N,Davidson,2024,50,50 to 54 years,2023,1
+9576,ST09,50452.95,6922,Property Stan Insp 1,Codes Administration,Fulltime,Officials and administrators,M,White,1994,2023-08-07,N,Davidson,2024,30,30 to 34 years,2023,1
+9649,ST09,50452.95,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,M,White,1968,2023-08-21,N,Davidson,2024,56,55 to 59 years,2023,1
+9651,ST09,50452.95,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,M,Black,1997,2023-08-21,N,Davidson,2024,27,25 to 29 years,2023,1
+9660,ST10,55729.1,7348,Plumbing Inspector 2,Codes Administration,Fulltime,Officials and administrators,M,White,1980,2023-08-21,N,Davidson,2024,44,40 to 44 years,2023,1
+9836,OR07,80810.37,7242,Admin Svcs Mgr,NDOT,Fulltime,Officials and administrators,M,White,1995,2023-09-18,Y,Davidson,2024,29,25 to 29 years,2023,1
+9848,NS,100000.0,11297,Deputy Director Comm/Press Secretary-MO,Mayor's Office,Fulltime,Officials and administrators,M,White,1991,2023-09-25,Y,Davidson,2024,33,30 to 34 years,2023,1
+9850,CA11,200000.0,10671,Senior VP-Convention Center,Convention Center Authority,Fulltime,Officials and administrators,F,White,1967,2023-09-25,Y,Davidson,2024,57,55 to 59 years,2023,1
+9853,NS,250000.0,11296,Chief Development Officer-MO,Mayor's Office,Fulltime,Officials and administrators,M,White,1966,2023-09-25,Y,Davidson,2024,58,55 to 59 years,2023,1
+9855,NS,180000.0,10815,Chief of Staff-Mayor's Office,Mayor's Office,Fulltime,Officials and administrators,F,White,1967,2023-09-25,Y,Davidson,2024,57,55 to 59 years,2023,1
+9857,OR01,51000.0,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,M,White,1976,2023-09-25,N,Davidson,2024,48,45 to 49 years,2023,1
+9879,FD03B,63783.41,7310,Fire Inspector 1,Fire,Fulltime,Officials and administrators,F,White,1989,2023-10-01,N,Davidson,2024,35,35 to 39 years,2023,1
+9885,FD03A,61978.22,7310,Fire Inspector 1,Fire,Fulltime,Officials and administrators,M,Black,2000,2023-10-01,N,Davidson,2024,24,22 to 24 years,2023,1
+9909,OR05,67425.5,7377,Program Mgr 2,General Sessions Court,Fulltime,Officials and administrators,F,Black,1962,2023-10-02,N,Davidson,2024,62,62 to 64 years,2023,1
+9939,DP02,247700.0,1570,Finance Dir,Finance,Fulltime,Officials and administrators,M,White,1965,2023-10-16,Y,Davidson,2024,59,55 to 59 years,2023,1
+10022,OR10,131084.42,6232,Finance Mgr,Arts Commission,Fulltime,Officials and administrators,F,Black,1984,2023-10-30,Y,Davidson,2024,40,40 to 44 years,2023,1
+10034,OR07,97139.27,7242,Admin Svcs Mgr,Arts Commission,Fulltime,Officials and administrators,F,White,1977,2023-10-30,Y,Davidson,2024,47,45 to 49 years,2023,1
+10035,OR07,97139.27,7242,Admin Svcs Mgr,Arts Commission,Fulltime,Officials and administrators,F,White,1987,2023-10-30,Y,Davidson,2024,37,35 to 39 years,2023,1
+10061,OR10,131084.42,10713,Crime Laboratory Director,Police,Fulltime,Officials and administrators,F,White,1976,2023-11-01,Y,Davidson,2024,48,45 to 49 years,2023,1
+10064,OR06,74117.92,10472,Information Sys Media Analys 3,Police,Fulltime,Officials and administrators,M,White,1995,2023-11-01,Y,Davidson,2024,29,25 to 29 years,2023,1
+10074,NS,135000.0,10814,Dir Off of Neighborhoods-Mayor,Mayor's Office,Fulltime,Officials and administrators,F,Black,1985,2023-11-07,Y,Davidson,2024,39,35 to 39 years,2023,1
+10113,NS,120000.0,10820,Council Liason-MO,Mayor's Office,Fulltime,Officials and administrators,M,Black,1981,2023-11-13,Y,Davidson,2024,43,40 to 44 years,2023,1
+10125,OR01,48699.02,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,F,White,1984,2023-11-14,N,Davidson,2024,40,40 to 44 years,2023,1
+10158,NS,165000.0,7929,Dir of Economic & Comm Dev,Mayor's Office,Fulltime,Officials and administrators,M,Black,1985,2023-11-20,Y,Davidson,2024,39,35 to 39 years,2023,1
+10162,OR01,48699.02,2670,Appraiser 2,Assessor of Property,Fulltime,Officials and administrators,F,Black,1996,2023-11-20,N,Davidson,2024,28,25 to 29 years,2023,1
+10183,OR11,131800.0,7762,Special Projects Mgr,Finance,Fulltime,Officials and administrators,F,Black,1983,2023-11-27,Y,Davidson,2024,41,40 to 44 years,2023,1
+10201,OR11,111373.52,7762,Special Projects Mgr,Office of Homeless Services,Fulltime,Officials and administrators,M,Black,1974,2023-11-27,Y,Davidson,2024,50,50 to 54 years,2023,1
+10205,ST09,50452.95,6922,Property Stan Insp 1,Codes Administration,Fulltime,Officials and administrators,M,Black,1982,2023-11-27,N,Davidson,2024,42,40 to 44 years,2023,1
+10230,OR07,97139.27,7242,Admin Svcs Mgr,Arts Commission,Fulltime,Officials and administrators,F,Black,1998,2023-12-04,Y,Davidson,2024,26,25 to 29 years,2023,1
+10234,NS,145000.0,11311,Dir of Data and Innovation-MO,Mayor's Office,Fulltime,Officials and administrators,M,White,1977,2023-12-04,Y,Davidson,2024,47,45 to 49 years,2023,1
+10246,NS,127000.0,11026,Deputy Chief of Staff-MO,Mayor's Office,Fulltime,Officials and administrators,M,White,1978,2023-12-11,Y,Davidson,2024,46,45 to 49 years,2023,1
+10253,OR07,91000.0,7242,Admin Svcs Mgr,Water Services,Fulltime,Officials and administrators,F,White,1983,2023-12-11,N,Davidson,2024,41,40 to 44 years,2023,1
+10258,ST09,50452.95,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,M,White,1971,2023-12-11,N,Davidson,2024,53,50 to 54 years,2023,1
+10276,ST09,50452.95,6922,Property Stan Insp 1,Codes Administration,Fulltime,Officials and administrators,M,White,1999,2023-12-25,N,Davidson,2024,25,25 to 29 years,2023,1
+10302,NS,165000.0,11079,Director of Performance Mgmt-MO,Mayor's Office,Fulltime,Officials and administrators,M,Black,1979,2024-01-02,Y,Davidson,2024,45,45 to 49 years,2024,0
+10307,OR11,128000.0,7762,Special Projects Mgr,Parks,Fulltime,Officials and administrators,M,White,1968,2024-01-05,Y,Davidson,2024,56,55 to 59 years,2024,0
+10329,ST09,50452.95,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,F,Black,1968,2024-01-08,N,Davidson,2024,56,55 to 59 years,2024,0
+10371,FD03,60173.03,7310,Fire Inspector 1,Fire,Fulltime,Officials and administrators,M,White,1968,2024-01-16,N,Davidson,2024,56,55 to 59 years,2024,0
+10375,OR08,95000.0,7234,Information Systems Advisor 1,Police,Fulltime,Officials and administrators,F,Asian,1978,2024-01-16,N,Davidson,2024,46,45 to 49 years,2024,0
+10422,ST09,50452.95,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,M,Black,1973,2024-01-22,N,Davidson,2024,51,50 to 54 years,2024,0
+10429,DP02,220000.0,1575,General Svcs Dir,General Services,Fulltime,Officials and administrators,M,Black,1961,2024-01-22,Y,Davidson,2024,63,62 to 64 years,2024,0
+10450,NS,105000.0,11106,Director of New Americans,Mayor's Office,Fulltime,Officials and administrators,F,Hispanic,1995,2024-01-29,Y,Davidson,2024,29,25 to 29 years,2024,0
+10521,OR08,90000.0,7234,Information Systems Advisor 1,Emergency Communications,Fulltime,Officials and administrators,M,White,1994,2024-02-05,N,Davidson,2024,30,30 to 34 years,2024,0
+10578,OR11,120000.0,10752,Facility Admin-DCSO,Sheriff,Fulltime,Officials and administrators,F,White,1993,2024-02-20,Y,Davidson,2024,31,30 to 34 years,2024,0
+10642,ST09,50452.95,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,F,Black,1979,2024-03-04,N,Davidson,2024,45,45 to 49 years,2024,0
+10647,OR07,92000.0,7242,Admin Svcs Mgr,NDOT,Fulltime,Officials and administrators,M,White,1994,2024-03-04,Y,Davidson,2024,30,30 to 34 years,2024,0
+10656,OR09,94249.13,10129,Planning Mgr 1,Planning Commission,Fulltime,Officials and administrators,M,White,1985,2024-03-04,Y,Davidson,2024,39,35 to 39 years,2024,0
+10680,OR08,87529.74,7234,Information Systems Advisor 1,Information Technology Services,Fulltime,Officials and administrators,M,White,1985,2024-03-16,Y,Davidson,2024,39,35 to 39 years,2024,0
+10734,ST09,50452.95,7732,Compliance Inspector 2,NDOT,Fulltime,Officials and administrators,M,White,1977,2024-03-18,N,Davidson,2024,47,45 to 49 years,2024,0
