@@ -1,8 +1,9 @@
-Race,Not Hispanic/Latino,Hispanic/Latino
-White ,393994,7299
-Black,176918,1394
-Native ,94,1033
-Asian ,25038,107
-Islander,408,0
-Other ,3588,18656
-Two or more,30586,49029
+Race,Total
+White ,393994
+Black,176918
+Native ,94
+Asian ,25038
+Islander,408
+Other ,3588
+Two or more,30586
+Hispanic,77518
