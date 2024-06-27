@@ -24,4 +24,6 @@ During this analysis, I faced a few challenges. One significant difficulty was d
 https://censusreporter.org/profiles/05000US47037-davidson-county-tn/
 https://data.nashville.gov/browse?category=Metro%20Government
 
-## Link to Dashboardployment_-project
+## Link to Dashboard 
+https://public.tableau.com/app/profile/zenash.demeke/viz/DiversityinDavidsonCountyGov_Employees/Presentation?publish=yes
+
